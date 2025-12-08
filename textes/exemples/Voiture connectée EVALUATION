@@ -1,0 +1,17 @@
+# ÉVALUATION OUVERT-OBJET : Voiture connectée  
+** Objet ** : Véhicule assisté par logiciels propriétaires  
+** Date ** : 08/12/2025  
+** Évaluateur ** : Citoyen-33333 (public)  
+
+## Score par critère  
+| Critère | Score | Justification | Preuve |  
+|---------|-------|---------------|--------|  
+| **Utilité (U)** | 2/2 | Transport rapide, standardisé | Statistiques automobile |  
+| **Complexité (C)** | 0/2 | Architecture logicielle opaque | Documentation constructeur |  
+| **Transparence (T)** | 0/2 | Code fermé, non auditable | N/A |  
+| **Réparabilité (R)** | 0/2 | Dépendance concessionnaire, pièces propriétaires | Expérience utilisateur |  
+| **Contestabilité (C)** | 0/2 | Sortie difficile, verrouillage écosystème | Études marché |  
+| **TOTAL** | **2/10** | **🔴 MAUVAIS OBJET** |  
+
+## Recommandation  
+Limiter la dépendance aux logiciels fermés et imposer une auditabilité publique.
