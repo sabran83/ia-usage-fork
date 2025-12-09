@@ -102,7 +102,7 @@ Ces systèmes **déplacent la finalité de l’individu vers la plateforme**, et
 
 ## 2.6 Ethos technique et éthique de l’usage
 
-> « Nous intitulons ce chapitre Éthos technique et éthique de l’usage pour interroger deux faces d’une même médiation : la figure de confiance qu’un objet projette, et la responsabilité morale que j’assume en le manipulant. »  
+> « Nous intitulons ce chapitre Éthos technique et éthique de l’usage pour interroger deux faces d’une même médiation : la figure de confiance qu’un objet projette, et la responsabilité morale que j’assume en l’utilisant. »  
 
 Le **bon objet** porte en lui **une éthique de l’usage**. Il **ne moralise pas, il structure**. Il **ne prescrit pas, il propose**. Il **ne juge pas, il rend possible**. Il **ne produit pas de sujet, il rend l’utilisateur plus actif, plus critique, plus habile**.  
 
