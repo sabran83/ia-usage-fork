@@ -7,7 +7,7 @@ Nous vivons entourés d’objets que nous utilisons sans les comprendre. Ce n’
 
 En clair : notre quotidien repose sur des technologies invisibles. Nous les utilisons sans savoir comment elles fonctionnent, et pourtant elles orientent nos vies.  
 
-La **technologie**, au sens large, n’est pas un ensemble de machines ou de logiciels. C’est une **forme de connaissance rendue opérationnelle** (Whitehead, 1929). Elle permet à un individu de **bénéficier d’un savoir sans le posséder**, elle dissocie l’expert de l’utilisateur, le savoir de l’action, la compétence de l’usage.  
+La **technologie**, au sens large, n’est pas un ensemble de machines ou de logiciels. C’est une **forme de connaissance rendue opérationnelle** (Whitehead, 1929). Elle permet à un individu de **bénéficier d’un savoir sans être le propriétaire du savoir**, elle dissocie l’expert de l’utilisateur, le savoir de l’action, la compétence de l’usage.  
 
 Cela signifie qu’un citoyen peut agir efficacement sans comprendre le détail technique. Mais si cette dissociation devient trop grande, elle fragilise la confiance collective.  
 Cette dissociation n’est pas un déficit. C’est un **progrès**. Elle est la condition de la division du travail, de l’accumulation des innovations, de la coordination à grande échelle (Hayek, 1945).  
