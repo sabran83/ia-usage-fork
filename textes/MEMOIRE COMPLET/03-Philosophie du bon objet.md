@@ -112,7 +112,7 @@ C’est ce que Dewey appelle une **expérience éducative**³ :
 > « Une expérience est éducative quand elle augmente la capacité à avoir de nouvelles expériences. »  
 
 Le **bon objet** n’est pas une fin, il est **un support**. Il **ne résout pas, il ouvre**. Il **ne clôt pas, il prolonge**. Il **ne domine pas, il accompagne**.  
-Il **n’est pas la solution, il est le tremplin vers d’autres usages, autres apprentissages, autres critiques**.  
+Il **n’est pas la solution, il est le tremplin vers d’autres usages, d'autres apprentissages, d'autres critiques**.  
 
 On pourrait résumer en disant : **« Le bon objet sert, le mauvais objet capte »**.  
 
