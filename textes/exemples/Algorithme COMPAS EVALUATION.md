@@ -12,7 +12,7 @@
 | **TA – Transparence Auditable (4)** | 0/4 🔴 | Décisions non explicables, documentation insuffisante pour un public ou collectif non expert. | Rapports critiques |
 | **R – Réparabilité (4)** | 0/4 🔴 | Pas de manuel public, pas d’accès au code, impossibilité de corriger ou d’adapter l’outil. | N/A |
 | **CO – Contestabilité (4)** | 0/4 🔴 | Contestation impossible sans accès interne ; l’utilisateur / juge ne peut pas remettre en cause l’algorithme. | Cas judiciaires |
-| **TOTAL (20)** | 2/20 🔴 | Objet très opaque, non gouvernable, dépendance forte → MAUVAIS OBJET |  |
+| **TOTAL (20)** | 02/20 🔴 | Objet très opaque, non gouvernable, dépendance forte → MAUVAIS OBJET |  |
 
 ---
 
