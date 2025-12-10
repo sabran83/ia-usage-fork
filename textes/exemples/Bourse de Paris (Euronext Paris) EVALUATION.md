@@ -23,3 +23,4 @@
 
 ## Recommandation  
 Renforcer la transparence des mécanismes de cotation, documenter les algorithmes et arbitrages, et développer des dispositifs pédagogiques pour démocratiser l’accès citoyen à la finance.
+
