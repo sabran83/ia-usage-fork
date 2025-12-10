@@ -1,29 +1,25 @@
-# ÉVALUATION OUVERT-OBJET : Bourse de Paris (Euronext Paris)  
-** Objet ** : Place financière française, intégrée au groupe Euronext  
-** Date ** : 08/12/2025  
-** Évaluateur ** : Citoyen-20202 (public)  
+# ÉVALUATION OPEN-OBJET : Bourse de Paris (Euronext Paris)
+**Objet** : Place financière française, intégrée au groupe Euronext  
+**Date** : 08/12/2025  
+**Évaluateur** : Citoyen-20202 (public)  
 
-## Score par critère  
-| Critère | Score | Justification | Preuve |  
-|---------|-------|---------------|--------|  
-| **Utilité (U)** | 2/2 | Permet le financement des entreprises, la liquidité des titres et l’investissement | Mission Euronext Paris |  
-| **Complexité (C)** | 1/2 | Fonctionnement technique (indices, cotations, produits dérivés) opaque pour le citoyen | Rapports AMF, documentation Euronext |  
-| **Transparence (T)** | 1/2 | Données de marché publiques, mais arbitrages stratégiques et algorithmes de trading peu lisibles | Publications AMF, analyses financières |  
-| **Réparabilité (R)** | 1/2 | Régulation possible via l’AMF et la loi, mais pas de correction citoyenne directe | Régulation financière |  
-| **Contestabilité (C)** | 1/2 | Alternatives limitées (autres places boursières), mais dépendance forte au système global | Comparaison avec autres bourses |  
-| **TOTAL** | **6/10** | **🟡 OBJET ÉLITISTE** |  
+## Score par critère détaillé (sur 20)
 
-## Recommandation  
-Renforcer la transparence des mécanismes de cotation et ouvrir des dispositifs pédagogiques pour démocratiser l’accès citoyen à la finance.  
+| Critère / Score | Score | Détail / Justification | Preuve / Exemple |
+|-----------------|-------|----------------------|----------------|
+| **U – Utilité réelle (4)** | 4/4 🟢 | Permet le financement des entreprises, assure la liquidité des titres et facilite l’investissement. Répond à un besoin économique réel et fondamental. | Mission Euronext Paris |
+| **CE – Complexité Encapsulée (4)** | 1/4 🟡 | Fonctionnement technique opaque (indices, cotations, produits dérivés). Documentation partielle, modularité faible, auditabilité limitée, absence de transparence totale → CE faible mais pas totalement masqué. | Rapports AMF, documentation Euronext |
+| **TA – Transparence Auditable (4)** | 1/4 🟡 | Données de marché accessibles, mais arbitrages stratégiques et algorithmes de trading peu lisibles pour un public non expert. | Publications AMF, analyses financières |
+| **R – Réparabilité (4)** | 1/4 🟡 | Régulation possible via l’AMF et la loi, mais pas de correction ou adaptation directe par les citoyens. | Régulation financière |
+| **CO – Contestabilité (4)** | 1/4 🟡 | Alternatives limitées à d’autres places boursières, dépendance forte au système global. Possibilité de contestation indirecte par régulation ou acteurs institutionnels. | Comparaison avec autres bourses |
+| **TOTAL (20)** | 8/20 🟡 | Objet utile mais verrouillé, complexité opaque, transparence et contestabilité limitées → objet élitiste. |  |
 
 ---
 
-## Diagnostic  
-La Bourse de Paris est un **pilier du financement économique**, mais son fonctionnement reste **élitiste** :  
-- **Utilité** : elle assure la liquidité et le financement des entreprises.  
-- **Complexité** : ses mécanismes (indices, produits dérivés, algorithmes) sont opaques pour le citoyen ordinaire.  
-- **Transparence** : les données sont publiques, mais les arbitrages stratégiques restent invisibles.  
-- **Réparabilité** : les régulations passent par l’AMF et la loi, sans initiative citoyenne directe.  
-- **Contestabilité** : alternatives existent (autres bourses), mais la dépendance au système global est forte.  
+💡 **Notes :**  
+- CE est noté sur 4 : documentation, modularité, auditabilité, absence de politisation / encapsulation cachée.  
+- U, TA, R, CO sont également sur 4 pour harmoniser le total sur 20.  
+- La Bourse de Paris est utile mais techniquement et institutionnellement verrouillée pour les citoyens, ce qui limite la gouvernabilité et l’autonomie des utilisateurs.  
 
-Résultat : la Bourse de Paris est **utile mais verrouillée**, ce qui alimente un sentiment de distance et parfois de défiance vis‑à‑vis du système financier.
+## Recommandation  
+Renforcer la transparence des mécanismes de cotation, documenter les algorithmes et arbitrages, et développer des dispositifs pédagogiques pour démocratiser l’accès citoyen à la finance.
