@@ -4,10 +4,10 @@ Protocole OPEN-OBJET pour accréditer l'IA comme un médicament – version fork
 ## 🎯 C'est quoi ce projet ?
 
 Ce repo contient ** l'intégralité ** de la théorie du bon objet appliquée à l'IA :
-- ✅ ** Grille OPEN-OBJET ** (5 critères, 25 indicateurs, score 0-20)
+- ✅ ** Grille OPEN-OBJET ** (5 critères, 25 indicateurs, score 0-100)
 - ✅ ** Protocole d'évaluation ** (7 semaines, test standardisé)
 - ✅ ** Proposition IA-Usage ** (chambre citoyenne 50%, label 🟢🟠🔴)
-- ✅ ** Exemples concrets ** (YouTube 0/20, machine à expresso 20/10)
+- ✅ ** Exemples concrets ** (YouTube 0/100, machine à expresso 100/100)
 
 ## 🛠️ Comment l'utiliser ?
 
