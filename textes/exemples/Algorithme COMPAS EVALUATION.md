@@ -7,7 +7,7 @@
 
 | Critère / Sous-critère | Score /4 | Détail / Justification |
 |------------------------|----------|----------------------|
-| **U – Utilité réelle (Total 20)** | **2/20 🟡** |                        |
+| **U – Utilité réelle (Total 20)** | **02/20 🟡** |                        |
 | 1. Pertinence sociale  | 1/4 🟡   | Aide à la décision judiciaire mais biais documentés |
 | 2. Impact réel         | 0/4 🔴   | Ne garantit pas une amélioration objective de la justice |
 | 3. Usage effectif      | 1/4 🟡   | Utilisé par certains tribunaux, mais adoption limitée |
