@@ -1,26 +1,26 @@
-# ÉVALUATION OPEN-OBJET : Association Emmaüs France
-**Objet** : Mouvement solidaire fondé par l’abbé Pierre en 1949  
+# ÉVALUATION OPEN-OBJET : Bourse de Paris (Euronext Paris)
+**Objet** : Place financière française, intégrée au groupe Euronext  
 **Date** : 08/12/2025  
-**Évaluateur** : Citoyen-26262 (public)  
+**Évaluateur** : Citoyen-20202 (public)  
 
 ## Score par critère détaillé (sur 20)
 
 | Critère / Score | Score | Détail / Justification | Preuve / Exemple |
 |-----------------|-------|----------------------|----------------|
-| **U – Utilité réelle (4)** | 4/4 🟢 | Lutte contre l’exclusion, accompagne les plus démunis, valorise la réinsertion par le travail. Répond clairement à un besoin social réel et reconnu. | Missions Emmaüs France |
-| **CE – Complexité Encapsulée (4)** | 4/4 🟢 | Organisation en communautés et structures variées, parfois difficile à comprendre, mais documentation et audit partiellement accessibles, modularité sociale présente. Politisation / encapsulation cachée transparente → score complet. | Rapports associatifs, guides internes |
-| **TA – Transparence Auditable (4)** | 3/4 🟡 | Rapports publics et communication ouverte, mais arbitrages internes peu lisibles, certaines décisions restent opaques pour un public non expert. | Publications Emmaüs |
-| **R – Réparabilité (4)** | 4/4 🟢 | Capacité à adapter ses actions, corriger ses méthodes, réviser ses priorités selon les besoins sociaux. | Actions locales, innovations solidaires |
-| **CO – Contestabilité (4)** | 1/4 🟡 | ONG ouverte aux critiques, possibilité de contestation interne, mais alternatives limitées à cette échelle de solidarité. | Débats publics, instances de participation |
-| **TOTAL (20)** | 16/20 🟢 | Bon objet : utile, réparable et transparent, contestabilité limitée. |  |
+| **U – Utilité réelle (4)** | 4/4 🟢 | Permet le financement des entreprises, assure la liquidité des titres et facilite l’investissement. Répond à un besoin économique réel et fondamental. | Mission Euronext Paris |
+| **CE – Complexité Encapsulée (4)** | 1/4 🟡 | **Sous-critères :**<br>1️⃣ Documentation : 0/1 – guides et algorithmes non accessibles au public<br>2️⃣ Modularité : 0/1 – architecture et produits financiers opaques<br>3️⃣ Auditabilité : 1/1 – rapports AMF disponibles pour auditeurs institutionnels<br>4️⃣ Politisation / encapsulation cachée : 0/1 – absence de transparence sur arbitrages et algorithmes stratégiques → complexité masquée partiellement | Rapports AMF, documentation Euronext |
+| **TA – Transparence Auditable (4)** | 1/4 🟡 | Données de marché accessibles, mais arbitrages stratégiques et algorithmes de trading peu lisibles pour un public non expert. | Publications AMF, analyses financières |
+| **R – Réparabilité (4)** | 1/4 🟡 | Régulation possible via l’AMF et la loi, mais pas de correction ou adaptation directe par les citoyens. | Régulation financière |
+| **CO – Contestabilité (4)** | 1/4 🟡 | Alternatives limitées à d’autres places boursières, dépendance forte au système global. Possibilité de contestation indirecte par régulation ou acteurs institutionnels. | Comparaison avec autres bourses |
+| **TOTAL (20)** | 8/20 🟡 | Objet utile mais verrouillé, complexité opaque, transparence et contestabilité limitées → objet élitiste. |  |
 
 ---
 
 💡 **Notes :**  
-- CE est maintenant détaillé sur 4 points : documentation, modularité, auditabilité, et absence de politisation / encapsulation cachée.  
-- U, TA, R, CO sont également notés sur 4 pour une lecture sur 20.  
-- Emmaüs France est globalement un **bon objet**, avec transparence et adaptabilité, mais contestabilité à améliorer.  
+- CE est maintenant détaillé sur 4 sous-critères : documentation, modularité, auditabilité, absence de politisation / encapsulation cachée.  
+- U, TA, R, CO restent sur 4 pour harmoniser le total sur 20.  
+- La Bourse de Paris est utile mais techniquement et institutionnellement verrouillée pour les citoyens, ce qui limite la gouvernabilité et l’autonomie des utilisateurs.  
 
 ## Recommandation  
-Renforcer la transparence financière et démocratiser l’accès citoyen aux processus de décision pour accroître la légitimité et la confiance.
+Renforcer la transparence des mécanismes de cotation, documenter les algorithmes et arbitrages, et développer des dispositifs pédagogiques pour démocratiser l’accès citoyen à la finance.
 
