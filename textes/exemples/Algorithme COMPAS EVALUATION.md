@@ -1,4 +1,4 @@
-# ÉVALUATION "OPEN"-OBJET : Algorithme COMPAS
+# ÉVALUATION "OPEN-OBJET" : Algorithme COMPAS
 **Objet** : Logiciel d’évaluation du risque de récidive  
 **Date** : 08/12/2025  
 **Évaluateur** : Citoyen-24680 (public)  
