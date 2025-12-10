@@ -1,4 +1,4 @@
-# ÉVALUATION OPEN-OBJET : Bourse de Paris (Euronext Paris)
+# ÉVALUATION "OPEN"-OBJET : Bourse de Paris (Euronext Paris)
 **Objet** : Place financière française, intégrée au groupe Euronext  
 **Date** : 08/12/2025  
 **Évaluateur** : Citoyen-20202 (public)  
