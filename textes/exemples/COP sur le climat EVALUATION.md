@@ -1,4 +1,4 @@
-# ÉVALUATION OPEN-OBJET : COP sur le climat
+# ÉVALUATION "OPEN"-OBJET : COP sur le climat
 **Objet** : Conférences internationales annuelles réunissant les États signataires de la CCNUCC (depuis 1995)  
 **Date** : 08/12/2025  
 **Évaluateur** : Citoyen-38383 (public)  
