@@ -14,7 +14,7 @@ Règle d'or : Vous devez partager vos améliorations.
 Ce document a été horodaté et signé numériquement par [IPIPIP.fr](https://www.ipipip.fr), certificat daté du 03.11.2025.
 Fichier de preuve : LaThoriedubonprojet.json disponible 
 
-Ce document "BON-OBJET.pdf" disponible ici : 
-a été horodaté et signé numériquement par https://opentimestamps.org/, certificat daté du 09.12.2025.
+Ce document "BON-OBJET.pdf" est aussi disponible ici : https://github.com/sabran83/ia-usage-fork/blob/main/textes/MEMOIRE%20COMPLET/BON-OBJET.pdf
+et a été horodaté et signé numériquement par https://opentimestamps.org/, certificat daté du 09.12.2025.
 Fichier de preuve : BON-OBJET.pdf.ots est disponible ci-après,
 https://mega.nz/file/xkNFHLJJ#2kHcq5YCyswX4_qgZkOPBbUZ-EGrK5OC6WYd7aIrMZw
