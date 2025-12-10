@@ -1,26 +1,54 @@
-# ÉVALUATION "OPEN"-OBJET : Bourse de Paris (Euronext Paris)
-**Objet** : Place financière française, intégrée au groupe Euronext  
+# ÉVALUATION "OPEN"-OBJET : Association Emmaüs France
+**Objet** : Mouvement solidaire fondé par l’abbé Pierre en 1949  
 **Date** : 08/12/2025  
-**Évaluateur** : Citoyen-20202 (public)  
+**Évaluateur** : Citoyen-26262 (public)  
 
-## Score par critère détaillé (sur 20)
+## Score par critère détaillé (25 sous-critères, total 100 points)
 
-| Critère / Score | Score | Détail / Justification | Preuve / Exemple |
-|-----------------|-------|----------------------|----------------|
-| **U – Utilité réelle (4)** | 4/4 🟢 | Permet le financement des entreprises, assure la liquidité des titres et facilite l’investissement. Répond à un besoin économique réel et fondamental. | Mission Euronext Paris |
-| **CE – Complexité Encapsulée (4)** | 1/4 🟡 | **Sous-critères :**<br>1️⃣ Documentation : 0/1 – guides et algorithmes non accessibles au public<br>2️⃣ Modularité : 0/1 – architecture et produits financiers opaques<br>3️⃣ Auditabilité : 1/1 – rapports AMF disponibles pour auditeurs institutionnels<br>4️⃣ Politisation / encapsulation cachée : 0/1 – absence de transparence sur arbitrages et algorithmes stratégiques → complexité masquée partiellement | Rapports AMF, documentation Euronext |
-| **TA – Transparence Auditable (4)** | 1/4 🟡 | Données de marché accessibles, mais arbitrages stratégiques et algorithmes de trading peu lisibles pour un public non expert. | Publications AMF, analyses financières |
-| **R – Réparabilité (4)** | 1/4 🟡 | Régulation possible via l’AMF et la loi, mais pas de correction ou adaptation directe par les citoyens. | Régulation financière |
-| **CO – Contestabilité (4)** | 1/4 🟡 | Alternatives limitées à d’autres places boursières, dépendance forte au système global. Possibilité de contestation indirecte par régulation ou acteurs institutionnels. | Comparaison avec autres bourses |
-| **TOTAL (20)** | 8/20 🟡 | Objet utile mais verrouillé, complexité opaque, transparence et contestabilité limitées → objet élitiste. |  |
+| Critère / Sous-critère | Score /4 | Détail / Justification |
+|------------------------|----------|----------------------|
+| **U – Utilité réelle (Total 20)** | **18/20 🟢** |                        |
+| 1. Pertinence sociale  | 4/4 🟢  | Lutte contre l’exclusion et accompagnement des plus démunis |
+| 2. Impact réel         | 4/4 🟢  | Programmes et actions locales ont des résultats tangibles |
+| 3. Usage effectif      | 4/4 🟢  | Communautés et structures Emmaüs mobilisées efficacement |
+| 4. Accessibilité       | 3/4 🟡  | Information publique mais certaines procédures internes peu lisibles |
+| 5. Documentation       | 3/4 🟡  | Rapports disponibles mais pas toujours détaillés pour le citoyen |
+| **CE – Complexité Encapsulée (Total 20)** | **14/20 🟡** |                        |
+| 1. Documentation technique | 3/4 🟡 | Guides internes et rapports partiellement accessibles |
+| 2. Modularité / ouverture | 3/4 🟡 | Structures variées et autonomes, mais coordination complexe |
+| 3. Auditabilité           | 3/4 🟡 | Audits internes et rapports publics disponibles mais incomplets |
+| 4. Politisation / encapsulation cachée | 4/4 🟢 | Transparence sociale et respect des principes de participation |
+| 5. Robustesse organisationnelle | 1/4 🟡 | Organisation en réseaux parfois difficile à comprendre pour un citoyen |
+| **TA – Transparence Auditable (Total 20)** | **14/20 🟡** |                        |
+| 1. Documentation claire  | 3/4 🟡 | Rapports publics mais arbitrages internes peu explicites |
+| 2. Normes ou standards   | 3/4 🟡 | Protocoles et procédures internes connus mais pas toujours détaillés |
+| 3. Lisibilité des décisions | 3/4 🟡 | Les décisions locales compréhensibles, décisions stratégiques opaques |
+| 4. Communication externe | 3/4 🟡 | Publications régulières mais synthèses pour grand public limitées |
+| 5. Accessibilité collective | 2/4 🟡 | Peu de mécanismes pour que le citoyen suive l’intégralité des processus |
+| **R – Réparabilité (Total 20)** | **18/20 🟢** |                        |
+| 1. Correctibilité       | 4/4 🟢 | L’association adapte ses actions en fonction des besoins sociaux |
+| 2. Adaptabilité         | 4/4 🟢 | Méthodes et priorités révisables facilement |
+| 3. Documentation aide   | 4/4 🟢 | Supports internes et guides disponibles aux bénévoles |
+| 4. Communauté / support | 3/4 🟡 | Support interne et réseau de bénévoles actif |
+| 5. Continuité / maintenance | 3/4 🟡 | Maintien des actions assuré mais coordination complexe |
+| **CO – Contestabilité (Total 20)** | **12/20 🟡** |                        |
+| 1. Remise en cause par experts | 3/4 🟡 | Critiques possibles par ONG et experts |
+| 2. Possibilité d’appel / recours | 2/4 🟡 | Alternatives à Emmaüs limitées à cette échelle de solidarité |
+| 3. Transparence des résultats | 3/4 🟡 | Rapports accessibles mais non exhaustifs |
+| 4. Participation citoyenne | 2/4 🟡 | Débats et instances consultatives présentes mais limitées |
+| 5. Alternatives / substituts | 2/4 🟡 | Autres ONG possibles mais couverture locale inégale |
+
+| **TOTAL (100)** | **76/100 🟡** | Emmaüs France est un **bon objet** : utile, réparable, partiellement transparent et contestable, mais certaines parties de l’organisation restent opaques pour le citoyen. |
 
 ---
 
 💡 **Notes :**  
-- CE est maintenant détaillé sur 4 sous-critères : documentation, modularité, auditabilité, absence de politisation / encapsulation cachée.  
-- U, TA, R, CO restent sur 4 pour harmoniser le total sur 20.  
-- La Bourse de Paris est utile mais techniquement et institutionnellement verrouillée pour les citoyens, ce qui limite la gouvernabilité et l’autonomie des utilisateurs.  
+- Tous les critères principaux sont notés sur 5 sous-critères × 4 points = 20 par critère  
+- Couleurs : 🟢 = 3‑4, 🟡 = 1‑2, 🔴 = 0  
+- CE détaillé pour montrer documentation, modularité, auditabilité, absence de politisation et robustesse  
+- L’association progresse en transparence et participation, mais certaines décisions internes restent difficiles à suivre pour le public  
 
 ## Recommandation  
-Renforcer la transparence des mécanismes de cotation, documenter les algorithmes et arbitrages, et développer des dispositifs pédagogiques pour démocratiser l’accès citoyen à la finance.
+Renforcer la transparence financière et démocratiser l’accès citoyen aux processus de décision pour accroître légitimité et confiance.
+
 
