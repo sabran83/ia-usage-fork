@@ -1,29 +1,26 @@
-# ÉVALUATION OUVERT-OBJET : COP sur le climat  
-** Objet ** : Conférences internationales annuelles réunissant les États signataires de la CCNUCC (depuis 1995)  
-** Date ** : 08/12/2025  
-** Évaluateur ** : Citoyen-38383 (public)  
+# ÉVALUATION OPEN-OBJET : COP sur le climat
+**Objet** : Conférences internationales annuelles réunissant les États signataires de la CCNUCC (depuis 1995)  
+**Date** : 08/12/2025  
+**Évaluateur** : Citoyen-38383 (public)  
 
-## Score par critère  
-| Critère | Score | Justification | Preuve |  
-|---------|-------|---------------|--------|  
-| **Utilité (U)** | 2/2 | Plateforme mondiale pour négocier des accords climatiques (Kyoto, Paris, etc.), fixer des objectifs | CCNUCC, accords internationaux |  
-| **Complexité (C)** | 2/2 | Haut niveau de technicité diplomatique et scientifique, mais documenté et suivi par experts et médias | Rapports COP, analyses ONG |  
-| **Transparence (T)** | 1/2 | Déclarations publiques, mais négociations internes souvent opaques pour le citoyen | Communiqués officiels, critiques ONG |  
-| **Réparabilité (R)** | 1/2 | Révisions possibles à chaque conférence, mais processus long et dépendant des États membres | Historique des COP |  
-| **Contestabilité (C)** | 1/2 | Critiques possibles par ONG et citoyens, mais décisions réservées aux États membres | Débats publics, contestations sociales |  
-| **TOTAL** | **7/10** | **🟢 BON OBJET** |  
+## Score par critère détaillé (sur 20)
 
-## Recommandation  
-Renforcer la transparence des négociations, élargir la participation citoyenne et développer des mécanismes inclusifs pour intégrer davantage la société civile et les acteurs locaux.  
+| Critère / Score | Score | Détail / Justification | Preuve / Exemple |
+|-----------------|-------|----------------------|----------------|
+| **U – Utilité réelle (4)** | 4/4 🟢 | Plateforme mondiale pour négocier des accords climatiques (Kyoto, Paris, etc.), fixer des objectifs internationaux. Impact réel sur la gouvernance climatique mondiale. | CCNUCC, accords internationaux |
+| **CE – Complexité Encapsulée (4)** | 3/4 🟢 | **Sous-critères :**<br>1️⃣ Documentation : 1/1 – rapports, textes officiels et analyses accessibles<br>2️⃣ Modularité : 1/1 – participation d’experts, ONG et parties prenantes multiples<br>3️⃣ Auditabilité : 1/1 – suivi et évaluations par médias, ONG et scientifiques<br>4️⃣ Politisation / encapsulation cachée : 0/1 – décisions internes opaques, dépendance aux États membres → partiellement élitiste | Rapports COP, analyses ONG, communiqués officiels |
+| **TA – Transparence Auditable (4)** | 2/4 🟡 | Déclarations publiques et résumés accessibles, mais négociations internes peu lisibles pour le citoyen ordinaire. | Communiqués officiels, critiques ONG |
+| **R – Réparabilité (4)** | 2/4 🟡 | Possibilité de réviser les accords à chaque conférence, mais processus long et dépendant des États membres, faible influence directe du citoyen. | Historique des COP, amendements d’accords |
+| **CO – Contestabilité (4)** | 2/4 🟡 | Critiques et propositions possibles par ONG et citoyens, mais décisions finales réservées aux États membres → contestation limitée. | Débats publics, contestations sociales |
+| **TOTAL (20)** | 13/20 🟡 | Bon objet : utile, complexe mais modulable, documenté partiellement, accès citoyen limité → objet élitiste mais fonctionnel. |  |
 
 ---
 
-## Diagnostic  
-La COP sur le climat est une **institution internationale centrale pour la gouvernance climatique**, mais son fonctionnement reste **partiellement élitiste** :  
-- **Utilité** : elle permet de négocier des accords mondiaux et de fixer des objectifs climatiques.  
-- **Complexité** : ses débats sont techniques mais documentés et suivis par les experts.  
-- **Transparence** : les communiqués sont publics, mais les négociations internes restent opaques.  
-- **Réparabilité** : les révisions sont possibles à chaque conférence, mais le processus est long et verrouillé.  
-- **Contestabilité** : critiques existent, mais les décisions restent réservées aux États membres.  
+💡 **Notes :**  
+- CE est noté sur 4 sous-critères : documentation, modularité, auditabilité, absence de politisation / encapsulation cachée.  
+- U, TA, R, CO harmonisés sur 4 pour total sur 20.  
+- Politisation / encapsulation cachée = CE=0 si totalement opaque ; ici partiellement opaque → 0/1.  
+- La COP est **utile et documentée**, mais son fonctionnement reste partiellement élitiste et limité pour le citoyen ordinaire.  
 
-Résultat : la COP est un **bon objet**, utile et documenté, mais dont la complexité et l’opacité limitent l’accès citoyen direct.
+## Recommandation  
+Renforcer la transparence des négociations, élargir la participation citoyenne et développer des mécanismes inclusifs pour intégrer davantage la société civile et les acteurs locaux.
