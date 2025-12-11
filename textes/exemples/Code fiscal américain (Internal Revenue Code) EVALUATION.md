@@ -12,7 +12,7 @@
 | 2. Impact réel | 4/4 🟢 | Garantit le financement de services publics, infrastructures et programmes sociaux, impact concret sur la société américaine. |
 | 3. Usage effectif | 4/4 🟢 | Utilisé quotidiennement par citoyens, entreprises, comptables et autorités fiscales pour calculer et percevoir l’impôt. |
 | 4. Accessibilité | 2/4 🟡 | Texte disponible en ligne mais extrêmement volumineux (3 000 pages), difficile à consulter et comprendre pour un citoyen ordinaire. |
-| 5. Documentation | 2/4 🟡 | Guides, manuels et jurisprudence disponibles, mais nécessitent une expertise pour interprétation correcte. |
+| 5. Documentation | 2/4 🟡 | Guides, manuels et jurisprudence disponibles, mais obligent à une expertise pour interprétation correcte. |
 | **CE – Complexité Encapsulée (Total 20)** | **12/20 🟡** | |
 | 1. Documentation technique | 3/4 🟡 | Textes complets disponibles, mais leur volume important nécessite une expertise pour être correctement interprétés. |
 | 2. Modularité / ouverture | 2/4 🟡 | Le code peut être amendé par le Congrès, mais modification directe par citoyens impossible ; faible modularité pour l’utilisateur ordinaire. |
