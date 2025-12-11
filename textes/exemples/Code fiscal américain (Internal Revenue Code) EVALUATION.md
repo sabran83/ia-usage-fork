@@ -14,7 +14,7 @@
 | 4. Accessibilité | 2/4 🟡 | Texte disponible en ligne mais extrêmement volumineux (3 000 pages), difficile à consulter et comprendre pour un citoyen ordinaire. |
 | 5. Documentation | 2/4 🟡 | Guides, manuels et jurisprudence disponibles, mais nécessitent une expertise pour interprétation correcte. |
 | **CE – Complexité Encapsulée (Total 20)** | **12/20 🟡** | |
-| 1. Documentation technique | 3/4 🟡 | Textes complets disponibles, mais leur voluminosité et complexité nécessitent des experts pour analyse. |
+| 1. Documentation technique | 3/4 🟡 | Textes complets disponibles, mais leur volume important nécessite une expertise pour être correctement interprétés. |
 | 2. Modularité / ouverture | 2/4 🟡 | Le code peut être amendé par le Congrès, mais modification directe par citoyens impossible ; faible modularité pour l’utilisateur ordinaire. |
 | 3. Auditabilité | 1/4 🟡 | Vérifiable par experts et comptables professionnels, mais impossible pour un citoyen de 3 000 pages à auditer intégralement. |
 | 4. Politisation / encapsulation cachée | 3/4 🟢 | Le texte est public, aucune règle cachée ou DRM, mais complexité législative rend certains effets opaques pour le public. |
