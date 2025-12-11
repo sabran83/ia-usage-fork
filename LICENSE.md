@@ -14,7 +14,12 @@ Règle d'or : Vous devez partager vos améliorations.
 Ce document a été horodaté et signé numériquement par [IPIPIP.fr](https://www.ipipip.fr), certificat daté du 03.11.2025.
 Fichier de preuve : LaThoriedubonprojet.json disponible 
 
-Ce document a été renommé "BON-OBJET.pdf" est aussi disponible ici : https://github.com/sabran83/ia-usage-fork/blob/main/textes/MEMOIRE%20COMPLET/BON-OBJET.pdf
-et a été horodaté et signé numériquement par https://opentimestamps.org/, certificat daté du 09.12.2025.
-Fichier de preuve : BON-OBJET.pdf.ots est disponible ci-après,
-https://mega.nz/file/xkNFHLJJ#2kHcq5YCyswX4_qgZkOPBbUZ-EGrK5OC6WYd7aIrMZw
+La derière version "2025-12-10-La Théorie du bon objet.pdf" est disponible ici : https://mega.nz/file/Y8lxFTKR#T1CaqSugy2l7B5VBg2Na9hhwLN-44srEJEGeddWFYSs
+et a été horodaté et signé numériquement par https://opentimestamps.org/, certificat daté du 10.12.2025.
+Fichier de preuve : 2025-12-10-La Théorie du bon objet.pdf.ots est disponible ci-après :
+https://mega.nz/file/xkNFHLJJ#2kHcq5YCyswX4_qgZkOPBbUZ-EGrK5OC6WYd7aIrMZw](https://mega.nz/file/s4chgYzI#gDgb5YWSAuf8t4LXtY27NYBdLwGnKCpNB5hwEQivzYM
+
+La derière version du dossier complet ia-usage-fork-main.zip est disponible ici : https://mega.nz/file/l51wXJrR#65CbSBBc-LYPVuWIbyBjpCZrABFM_b27A-0VmlxB8To
+et a été horodaté et signé numériquement par https://opentimestamps.org/, certificat daté du 10.12.2025.
+Fichier de preuve : ia-usage-fork-main.zip.ots est disponible ci-après :
+https://mega.nz/file/FoFhGS4T#bEvSmjyRZqGfwY6lT2TZZPoc7s46tCiVk97WFhHXxa0
