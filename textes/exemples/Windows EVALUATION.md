@@ -1,17 +1,31 @@
-# ÉVALUATION OUVERT-OBJET : Windows  
-** Objet ** : Système d’exploitation propriétaire  
-** Date ** : 08/12/2025  
-** Évaluateur ** : Citoyen-65432 (public)  
+# ÉVALUATION OUVERT-OBJET : Windows
+**Objet** : Système d’exploitation propriétaire  
+**Date** : 08/12/2025  
+**Évaluateur** : Citoyen-65432 (public)  
 
-## Score par critère  
-| Critère | Score | Justification | Preuve |  
-|---------|-------|---------------|--------|  
-| **Utilité (U)** | 2/2 | Standard dominant sur PC | Parc installé et usages bureautiques |  
-| **Complexité (C)** | 1/2 | Architecture complexe, documentation partielle | Portails officiels |  
-| **Transparence (T)** | 0/2 | Code fermé, audit limité | N/A |  
-| **Réparabilité (R)** | 1/2 | Réparations via SAV et outils officiels, contraintes fortes | Expérience utilisateur |  
-| **Contestabilité (C)** | 1/2 | Alternatives existent mais dépendance écosystème | Migration difficile (drivers, formats) |  
-| **TOTAL** | **5/10** | **🟡 OBJET MITIGÉ** |  
+## Score par critère détaillé (25 sous-critères, total 100 points)
 
-## Recommandation  
-Accroître la transparence, réduire le verrouillage et faciliter l’export/migration vers des standards ouverts.
+| Critère / Sous-critère | Score /4 | Détail / Justification |
+|------------------------|----------|----------------------|
+| **U – Utilité réelle (Total 20)** | **14/20 🟡** |                        |
+| 1. Pertinence fonctionnelle | 4/4 🟢 | Permet l’exécution de la majorité des applications bureautiques. <br> Compatible avec matériels PC standards. <br> Norme dominante pour entreprises et administrations. <br> Large compatibilité avec imprimantes et périphériques. <br> Intégration avec réseaux et serveurs Windows. <br> Support multilingue et international. <br> Interface utilisateur ergonomique. <br> Mise à jour régulière des fonctionnalités. <br> Supporte logiciels professionnels critiques. <br> Base pour environnements de formation et éducatifs. |
+| 2. Impact réel | 3/4 🟡 | Utilisé par millions d’utilisateurs dans le monde. <br> Influence majeure sur le marché des logiciels. <br> Génère activité économique importante (licences, maintenance). <br> Adoption généralisée dans administrations et écoles. <br> Compatibilité critique pour applications industrielles. <br> Influence forte sur normes informatiques. <br> Dépendance économique significative. <br> Effet réseau favorisant standardisation. <br> Renforce la centralisation des outils informatiques. <br> Base pour autres logiciels et services tiers. |
+| 3. Usage effectif | 3/4 🟡 | Usage quotidien massif pour bureautique et multimédia. <br> Adapté aux particuliers et professionnels. <br> Installation simple pour utilisateurs moyens. <br> Mise à jour automatique ou manuelle. <br> Fonctionnalités multiples pour productivité. <br> Périodes de transition difficiles entre versions. <br> Adoption parfois freinée par coût des licences. <br> Nécessite apprentissage pour certaines fonctions avancées. <br> Support technique partiellement centralisé. <br> Usage optimal souvent réservé aux habitués du système. |
+| 4. Accessibilité | 2/4 🟡 | Disponibilité mondiale en magasins physiques et téléchargement officiel. <br> Coût de licence variable selon version. <br> Mise à jour gratuite mais nécessite connexion Internet. <br> Nécessité de matériel compatible. <br> Limitations pour anciennes machines. <br> Accessibilité pour utilisateurs novices correcte mais dépend tutoriels. <br> Support multilingue partiellement satisfaisant. <br> Existence de versions éducatives et entreprises. <br> Contrôle parental et sécurité intégrée. <br> Limitation des utilisateurs non technophiles sur certaines options avancées. |
+| 5. Documentation | 2/4 🟡 | Guides officiels complets mais parfois trop techniques. <br> Documentation en ligne disponible pour utilisateurs expérimentés. <br> Manuels papier partiels selon version. <br> Tutoriels accessibles mais disparates. <br> FAQ souvent insuffisante. <br> Documentation pour développeurs séparée. <br> Portails officiels offrent support mais navigation complexe. <br> Documentation sur sécurité partielle. <br> Guides de migration disponibles mais détaillés. <br> Transparence limitée sur code interne et algorithmes. |
+| **C – Complexité (Total 20)** | **5/20 🔴** |                        |
+| 1. Architecture interne | 1/4 🔴 | Architecture système complexe, multiples couches logicielles. <br> Processus système interconnectés difficiles à comprendre. <br> Gestion mémoire et pilotes sophistiquée. <br> Composants modulaires non documentés en interne. <br> Dépendance aux frameworks Microsoft. <br> Documentation partielle sur structures internes. <br> Complexité augmente avec versions et éditions. <br> Difficulté de dépannage avancé pour usager moyen. <br> Couche réseau et sécurité complexe. <br> Réglages avancés opaques pour non-initiés. |
+| 2. Modularité | 0/4 🔴 | Modules internes fermés et interdépendants. <br> Extensions et plugins limités par API officielles. <br> Personnalisation restreinte. <br> Impossibilité de remplacer composants logiciels critiques. <br> Dépendance totale aux mises à jour officielles. <br> Intégration externe difficile. <br> Interopérabilité avec systèmes non-Microsoft limitée. <br> Blocage pour solutions open source. <br> Flexibilité quasi nulle pour l’utilisateur avancé. <br> Ecosystème fermé. |
+| 3. Auditabilité | 0/4 🔴 | Code source fermé. <br> Audit indépendant impossible. <br> Défaillances ou failles non vérifiables par tiers. <br> Dépendance totale aux mises à jour constructeur. <br> Traçabilité des actions interne inexistante. <br> Aucune visibilité sur collecte de données. <br> Correctifs non ouverts. <br> Mises à jour opaques. <br> Risques sécurité non vérifiables. <br> Contrôle citoyen impossible. |
+| 4. Niveau technique requis | 1/4 🔴 | Utilisation basique accessible. <br> Fonctions avancées nécessitent formation ou expérience. <br> Débogage complexe impossible pour utilisateur moyen. <br> Paramètres système non intuitifs. <br> Administration système difficile sans compétences IT. <br> Interventions limitées pour particulier. <br> Complexité accrue pour réseaux d’entreprise. <br> Mise en place d’outils tiers parfois compliquée. <br> Support externe obligatoire pour certaines opérations. <br> Dépendance aux techniciens agréés. |
+| 5. Maintenance / dépendances | 1/4 🔴 | Mises à jour automatiques ou manuelles, parfois problématiques. <br> Dépendance aux serveurs Microsoft. <br> Correctifs et patchs non modifiables. <br> Risques de compatibilité avec logiciels tiers. <br> Maintenance complexe pour utilisateurs individuels. <br> Interventions externes limitées. <br> Blocage en cas de bugs majeurs. <br> Dépendance totale aux services de support. <br> Impossibilité d’adapter certaines fonctionnalités. <br> Administration système exige expertise. |
+| **T – Transparence (Total 20)** | **0/20 🔴** | Code fermé, auditabilité nulle, décisions logicielles opaques, collecte de données non documentée. |
+| **R – Réparabilité (Total 20)** | **5/20 🔴** | Réparation partielle via outils officiels et SAV. <br> Correctifs propriétaires imposés. <br> Impossible de corriger bugs système soi-même. <br> Dépendance totale au support Microsoft. <br> Maintenance difficile pour utilisateur individuel. <br> Documentation partielle pour dépannage. <br> Modules critiques non remplaçables. <br> Limitations pour installations personnalisées. <br> Mises à jour imposées. <br> Flexibilité pour modifications inexistante. |
+| **CO – Contestabilité (Total 20)** | **5/20 🔴** | Alternatives existent (Linux, macOS) mais migration difficile. <br> Dépendance aux drivers propriétaires. <br> Formats fichiers fermés. <br> Compatibilité limitée hors Microsoft. <br> Migration coûteuse en temps et argent. <br> Difficulté d’évaluer équivalence fonctionnelle. <br> Options limitées pour entreprises liées à Windows. <br> Recours légal limité à mises à jour ou licences. <br> Influence citoyenne sur développement nul. <br> Difficulté de contester écosystème fermé. |
+
+| **TOTAL (100)** | **29/100 🔴** | Objet mitigé, utile mais complexe, opaque et verrouillé → mauvais pour auditabilité et autonomie citoyenne. |
+
+---
+
+💡 **Recommandation**  
+Accroître la transparence du code, faciliter l’interopérabilité avec standards ouverts, réduire le verrouillage, et permettre un accès à la maintenance et audit indépendant.
