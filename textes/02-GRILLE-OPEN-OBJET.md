@@ -132,5 +132,7 @@ Après évaluation, formuler des recommandations concrètes pour :
 
 | **TOTAL (100)** | **0/100 🔴** | Algorithme opaque, non transparent, non contestable, utilisation largement nocive et manipulatrice. 
 
-
+## Recommandation
+Retrait immédiat du marché jusqu’à audit complet et publication d’une documentation exhaustive.  
+Développer des alternatives transparentes, modulables et explicables pour utilisateurs et chercheurs.
 
