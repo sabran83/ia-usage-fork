@@ -130,7 +130,7 @@ Après évaluation, formuler des recommandations concrètes pour :
 | 4. Participation citoyenne | 0/4 🔴 | Aucune participation possible ; utilisateurs entièrement dépendants. |
 | 5. Alternatives / substituts | 0/4 🔴 | Impossible de substituer l’algorithme pour les utilisateurs individuels. |
 
-| **TOTAL (100)** | **0/100 🔴** | Algorithme opaque, non transparent, non contestable, utilisation largement nocive et manipulatrice. |" corrigez 
+| **TOTAL (100)** | **0/100 🔴** | Algorithme opaque, non transparent, non contestable, utilisation largement nocive et manipulatrice. 
 
 
 
