@@ -146,17 +146,51 @@ Après évaluation, formuler des recommandations concrètes pour :
 
 ---
 
-## Exemple d'application : évaluation YouTube Recommendation
+# ÉVALUATION "OPEN"-OBJET : Algorithme de recommandation YouTube
+**Objet** : Algorithme de recommandation vidéo  
+**Date** : 08/12/2025  
+**Évaluateur** : Citoyen-12345 (public)  
 
-| Critère | Score | Justification |
-|---------|-------|---------------|
-| **Utilité** | 0/2 | 85% des vues induites (A/B test ProPublica) |
-| **Complexité** | 0/2 | Code fermé, infrastructure opaque |
-| **Transparence** | 0/2 | &lt;5% décisions explicables (SHAP impossible) |
-| **Réparabilité** | 0/2 | Aucune pièce, aucun manuel public |
-| **Contestabilité** | 0/2 | Exit impossible (verrou écosystème) |
-| **TOTAL** | **0/10** | **🔴 MAUVAIS OBJET** |
+## Score par critère détaillé (25 sous-critères, total 100 points)
+
+| Critère / Sous-critère | Score /4 | Détail / Justification |
+|------------------------|----------|----------------------|
+| **U – Utilité réelle (Total 20)** | **0/20 🔴** | |
+| 1. Pertinence fonctionnelle | 0/4 🔴 | Recommande majoritairement des vidéos addictives, non pertinentes pour l’éducation ou l’information. |
+| 2. Impact réel | 0/4 🔴 | 85% des vues induites selon tests A/B (ProPublica) ; influence disproportionnée sur consommation et opinions. |
+| 3. Usage effectif | 0/4 🔴 | Usage massif mais orienté vers la captation de l’attention, pas vers un bénéfice utilisateur réel. |
+| 4. Accessibilité | 0/4 🔴 | Code fermé, aucune documentation accessible au public. |
+| 5. Documentation | 0/4 🔴 | Aucun manuel ou guide explicatif public. |
+| **CE – Complexité Encapsulée (Total 20)** | **0/20 🔴** | |
+| 1. Documentation technique | 0/4 🔴 | Code fermé, infrastructure opaque. |
+| 2. Modularité / ouverture | 0/4 🔴 | Impossible d’adapter ou modifier l’algorithme pour l’utilisateur ou la communauté. |
+| 3. Auditabilité | 0/4 🔴 | Aucune possibilité de vérifier ou auditer le fonctionnement réel. |
+| 4. Politisation / encapsulation cachée | 0/4 🔴 | Algorithme opaque, décisions internes non auditable, biais potentiellement cachés. |
+| 5. Robustesse / simplicité | 0/4 🔴 | Extrêmement complexe, non documenté, impossible à comprendre pour le citoyen. |
+| **TA – Transparence Auditable (Total 20)** | **0/20 🔴** | |
+| 1. Documentation claire | 0/4 🔴 | Aucune documentation publique. |
+| 2. Normes ou standards | 0/4 🔴 | Aucun standard externe accessible ou applicable. |
+| 3. Lisibilité des décisions | 0/4 🔴 | Moins de 5% des décisions explicables ; SHAP impossible. |
+| 4. Communication externe | 0/4 🔴 | Aucune communication sur le fonctionnement réel de l’algorithme. |
+| 5. Accessibilité collective | 0/4 🔴 | Aucun accès collectif pour contrôle citoyen ou recherche indépendante. |
+| **R – Réparabilité (Total 20)** | **0/20 🔴** | |
+| 1. Correctibilité | 0/4 🔴 | Aucune possibilité de corriger ou ajuster l’algorithme. |
+| 2. Adaptabilité | 0/4 🔴 | Infrastructure propriétaire, impossible d’adaptation par tiers. |
+| 3. Documentation aide | 0/4 🔴 | Aucun guide pour comprendre ou modifier le système. |
+| 4. Communauté / support | 0/4 🔴 | Pas de communauté de support pour réparation ou adaptation. |
+| 5. Continuité / maintenance | 0/4 🔴 | Maintenance uniquement interne, non transparente, inaccessible au public. |
+| **CO – Contestabilité (Total 20)** | **0/20 🔴** | |
+| 1. Remise en cause par experts | 0/4 🔴 | Impossible de contester le fonctionnement exact de l’algorithme. |
+| 2. Possibilité d’appel / recours | 0/4 🔴 | Aucun recours pour influencer les recommandations ou décisions. |
+| 3. Transparence des résultats | 0/4 🔴 | Décisions internes non publiées, données et modèles opaques. |
+| 4. Participation citoyenne | 0/4 🔴 | Aucune participation possible ; utilisateurs entièrement dépendants. |
+| 5. Alternatives / substituts | 0/4 🔴 | Impossible de substituer l’algorithme pour les utilisateurs individuels. |
+
+| **TOTAL (100)** | **0/100 🔴** | Algorithme opaque, non transparent, non contestable, utilisation largement nocive et manipulatrice. |
 
 ---
 
-**Engagez-vous directement dans le principal**
+## Recommandation
+Retrait immédiat du marché jusqu’à audit complet et publication d’une documentation exhaustive.  
+Développer des alternatives transparentes, modulables et explicables pour utilisateurs et chercheurs.
+
