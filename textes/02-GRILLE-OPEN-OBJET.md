@@ -12,42 +12,88 @@ Rendre l’évaluation des objets (physiques, sociaux, algorithmiques) participa
 
 ---
 
-## Principe 2 : Grille détaillée (version 2.0)
+# Protocole OPEN-OBJET – Version 3.0 (GitHub-ready)
 
-### **Critère U – Utilité réelle (0-2 pts)**
-| Indicateur | Méthode | Seuil 2 pts | Seuil 1 pt | Seuil 0 pt |
-|------------|---------|-------------|------------|------------|
-| Besoin documenté | Enquête utilisateurs (n≥50) | &gt;70% confirment un besoin pré-existant | 40-70% | &lt;40% |
-| Absence d'induction | A/B test vs placebo | &lt;10% d'usage induit | 10-30% | &gt;30% |
-| Autonomie gagnée | Mesure temps/effort économisé | &gt;20% gain d'autonomie | 5-20% | &lt;5% ou perte |
+## 🎯 Objectif
+Accréditer un objet, un service ou un corpus (ex. : Code fiscal américain) selon les 5 critères OPEN-OBJET et 25 sous-critères détaillés, pour obtenir un score sur 100 points.
 
-### **Critère C – Complexité encapsulée (0-2 pts)**
-| Indicateur | Méthode | Seuil 2 pts | Seuil 1 pt | Seuil 0 pt |
-|------------|---------|-------------|------------|------------|
-| Documentation accessible | Test lecture par 5 profils (enfant, senior, non-expert) | 4/5 comprennent le schéma | 2-3/5 | &lt;2/5 |
-| Audit technique possible | Temps pour reproduire une panne | &lt;1h avec docs | 1-8h | &gt;8h ou impossible |
-| Modularité | Nombre de composants indépendants | &gt;5 modules | 2-5 | Monolithique |
+---
 
-### **Critère T – Transparence auditable (0-2 pts)**
-| Indicateur | Méthode | Seuil 2 pts | Seuil 1 pt | Seuil 0 pt |
-|------------|---------|-------------|------------|------------|
-| Code ouvert | Licence OSI + repo public | Oui, +200 commits/an | Oui, peu actif | Non |
-| Explication des décisions | SHAP/LIME/counterfactual | &gt;80% des décisions explicables | 50-80% | &lt;50% |
-| Traçabilité des données | Datasheet (Gebru) | Dataset + métadonnées complets | Partiel | Aucun |
+## Principe 1 : Évaluation citoyenne
+Chaque objet est évalué par au moins un citoyen, avec justification factuelle. Les scores reflètent l’accessibilité, l’utilité et la gouvernabilité de l’objet.
 
-### **Critère R – Réparabilité (0-2 pts)**
-| Indicateur | Méthode | Seuil 2 pts | Seuil 1 pt | Seuil 0 pt |
-|------------|---------|-------------|------------|------------|
-| Pièces disponibles | Nombre de fournisseurs | ≥3 indépendants | 1-2 | 0 |
-| Documentation de réparation | Manuel + tutoriels vidéo | &gt;10 tutos communauté | 1-10 | Aucun |
-| Temps de réparation | Benchmark par 3 réparateurs | &lt;1h pour panne commune | 1-4h | &gt;4h ou impossible |
+---
 
-### **Critère C – Contestabilité (0-2 pts)**
-| Indicateur | Méthode | Seuil 2 pts | Seuil 1 pt | Seuil 0 pt |
-|------------|---------|-------------|------------|------------|
-| Exit possible | Standards ouverts | Oui, migration &lt;1 jour | Oui, difficile | Non (verrouillage) |
-| Recours humain | Délai réponse | &lt;24h | 24h-7j | &gt;7j ou aucun |
-| Communauté critique | Nombre de forks/issues | &gt;100 forks/an | 10-100 | &lt;10 |
+## Principe 2 : Grille détaillée (version 3.0 – 25 sous-critères / 100 points)
+
+### **Critère U – Utilité réelle (0-20 pts, 5 sous-critères × 4 pts)**
+| Sous-critère | Méthode / Preuve | Seuil 4 pts | Seuil 2 pts | Seuil 0 pts |
+|-------------|-----------------|------------|------------|------------|
+| Pertinence fonctionnelle | Analyse fonctionnelle | L’objet répond à un besoin fondamental et documenté | Besoin partiellement documenté | Usage artificiel ou inutile |
+| Impact réel | Observation / données | Bénéfices tangibles et mesurables | Bénéfices partiels ou indirects | Aucun bénéfice réel |
+| Usage effectif | Statistiques / enquêtes | Utilisé régulièrement par le public cible | Usage irrégulier ou limité | Non utilisé ou usage imposé |
+| Accessibilité | Test utilisateurs | Facile à comprendre et à utiliser par un non-expert | Compréhension partielle | Trop complexe ou inaccessible |
+| Documentation | Guides, manuels, jurisprudence | Documentation complète, compréhensible et à jour | Documentation partielle ou partiellement lisible | Documentation absente ou incompréhensible |
+
+### **Critère CE – Complexité Encapsulée (0-20 pts, 5 sous-critères × 4 pts)**
+| Sous-critère | Méthode / Preuve | Seuil 4 pts | Seuil 2 pts | Seuil 0 pts |
+|-------------|-----------------|------------|------------|------------|
+| Documentation technique | Lecture et tests par profils variés | Documentation complète et compréhensible | Partiellement accessible | Incompréhensible ou inexistante |
+| Modularité / ouverture | Analyse composants | >5 composants indépendants et modifiables | 2-5 composants modifiables | Monolithique, non modifiable |
+| Auditabilité | Test de reproduction / contrôle | Audit complet possible en <1h par expert | Audit possible mais long (1-8h) | Impossible à auditer |
+| Politisation / encapsulation cachée | Observation / analyse | Pas de règles cachées, transparence totale | Transparence partielle | Verrouillage opaque ou règles cachées |
+| Robustesse / simplicité | Test usage / stress | Objet stable, fiable et cohérent | Stable mais complexe | Instable ou incohérent |
+
+### **Critère TA – Transparence Auditable (0-20 pts, 5 sous-critères × 4 pts)**
+| Sous-critère | Méthode / Preuve | Seuil 4 pts | Seuil 2 pts | Seuil 0 pts |
+|-------------|-----------------|------------|------------|------------|
+| Documentation claire | Guides, schémas, exemples | Documentation simple et compréhensible | Partiellement claire | Incompréhensible |
+| Normes ou standards | Vérification légale ou technique | Conformes et publiés | Partiellement respectés | Non conformes ou absents |
+| Lisibilité des décisions | Analyse décisions / rapports | Décisions accessibles et compréhensibles | Décisions partiellement lisibles | Décisions opaques |
+| Communication externe | Sites, rapports, publications | Exposition claire et régulière | Communication irrégulière | Non communiqué |
+| Accessibilité collective | Statistiques usage / diffusion | Large diffusion et enseignement | Diffusion limitée | Diffusion quasi nulle |
+
+### **Critère R – Réparabilité (0-20 pts, 5 sous-critères × 4 pts)**
+| Sous-critère | Méthode / Preuve | Seuil 4 pts | Seuil 2 pts | Seuil 0 pts |
+|-------------|-----------------|------------|------------|------------|
+| Correctibilité | Possibilité d’amendement ou réparation | Réparable facilement et rapidement | Réparable avec délai ou expert | Non réparable |
+| Adaptabilité | Flexibilité / options | Adaptable à différents contextes | Adaptabilité limitée | Non adaptable |
+| Documentation de réparation | Guides, tutoriels, support | >10 tutos ou guides complets | 1-10 guides disponibles | Aucun guide |
+| Communauté / support | Forums, experts, pairs | Communauté active et accessible | Support limité | Aucun support |
+| Continuité / maintenance | Suivi / mise à jour | Maintenance régulière et planifiée | Mise à jour irrégulière | Pas de maintenance |
+
+### **Critère CO – Contestabilité (0-20 pts, 5 sous-critères × 4 pts)**
+| Sous-critère | Méthode / Preuve | Seuil 4 pts | Seuil 2 pts | Seuil 0 pts |
+|-------------|-----------------|------------|------------|------------|
+| Exit possible | Possibilité de quitter / remplacer l’objet | Migration ou sortie simple <1 jour | Sortie possible mais complexe | Verrouillage complet |
+| Recours humain | Délais de réponse et recours | <24h ou procédure simple | 24h-7j | >7j ou inexistant |
+| Communauté critique | Feedback, forks, issues | >100 contributions/an | 10-100 | <10 ou aucun |
+| Participation citoyenne | Actions directes | Participation directe possible | Participation indirecte ou limitée | Participation impossible |
+| Alternatives / substituts | Possibilité de substituer | Alternatives multiples et accessibles | Alternatives limitées | Aucune alternative |
+
+---
+
+## Principe 3 : Notation et couleurs
+- Chaque sous-critère est noté sur 0-4 pts  
+- Couleurs pour visualisation rapide :  
+  - 🟢 = 3-4 pts  
+  - 🟡 = 1-2 pts  
+  - 🔴 = 0 pts  
+- Score total = somme des 25 sous-critères (0-100)
+
+---
+
+## Principe 4 : Preuves et justification
+Chaque score doit être accompagné d’une **preuve ou justification** factuelle (ex. publications officielles, guides, tutoriels, observations).  
+Les notes sont publiques pour garantir transparence.
+
+---
+
+## Principe 5 : Recommandations
+Après évaluation, formuler des recommandations concrètes pour :
+- Augmenter l’utilité et l’autonomie citoyenne  
+- Améliorer la transparence et l’auditabilité  
+- Renforcer la réparabilité et la contestabilité
 
 ---
 
