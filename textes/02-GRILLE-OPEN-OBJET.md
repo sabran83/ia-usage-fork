@@ -12,7 +12,7 @@ Rendre l’évaluation des objets (physiques, sociaux, algorithmiques) participa
 
 ---
 
-# Protocole OPEN-OBJET – Version 3.0 (GitHub-ready)
+# Protocole OPEN-OBJET – Version 3.0 
 
 ## 🎯 Objectif
 Accréditer un objet, un service ou un corpus (ex. : Code fiscal américain) selon les 5 critères OPEN-OBJET et 25 sous-critères détaillés, pour obtenir un score sur 100 points.
