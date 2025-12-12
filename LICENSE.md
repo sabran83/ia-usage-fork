@@ -21,7 +21,7 @@ et a été horodaté et signé numériquement par https://opentimestamps.org/, c
 Fichier de preuve : 2025-12-10-La Théorie du bon objet.pdf.ots est disponible ci-après :
 https://mega.nz/file/xkNFHLJJ#2kHcq5YCyswX4_qgZkOPBbUZ-EGrK5OC6WYd7aIrMZw](https://mega.nz/file/s4chgYzI#gDgb5YWSAuf8t4LXtY27NYBdLwGnKCpNB5hwEQivzYM
 
-La derière version du dossier complet ia-usage-fork-main.zip est disponible ici : https://mega.nz/file/l51wXJrR#65CbSBBc-LYPVuWIbyBjpCZrABFM_b27A-0VmlxB8To
-et a été horodaté et signé numériquement par https://opentimestamps.org/, certificat daté du 10.12.2025.
+La derière version du dossier complet 2025-12-12-ia-usage-fork-main.zip est disponible ici : https://mega.nz/file/ZtFCnIIB#sOhoKS5jTyMMHEeq7GKF2Orj5TNbJga5FT7gLQl2JC8
+et a été horodaté et signé numériquement par https://opentimestamps.org/, certificat daté du 12.12.2025.
 Fichier de preuve : ia-usage-fork-main.zip.ots est disponible ci-après :
-https://mega.nz/file/FoFhGS4T#bEvSmjyRZqGfwY6lT2TZZPoc7s46tCiVk97WFhHXxa0
+https://mega.nz/file/xslQFBzJ#1iSFL8pWTrFpTDgUBodAS5KA0uTodI-N_j5tLMNE1Ys
