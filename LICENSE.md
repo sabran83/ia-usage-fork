@@ -11,8 +11,10 @@ https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr
 Règle d'or : Vous devez partager vos améliorations.
 
 ## Preuve d’antériorité
-Ce document a été horodaté et signé numériquement par [IPIPIP.fr](https://www.ipipip.fr), certificat daté du 03.11.2025.
-Fichier de preuve : LaThoriedubonprojet.json disponible 
+Ce document a été horodaté et signé numériquement par [IPIPIP.fr](https://www.ipipip.fr), certificat daté du 31.10.2025, 15:09:00.
+https://mega.nz/file/wtNF0Yhb#t5Q3ZGvrcWLJZjKlgQo3Rvl6Ap7_DtK2UplY8zDYOns
+Fichier de preuve : BONOBJET_2705_receipt.json disponible 
+https://mega.nz/file/N9tETDjD#4DJNQaamMwOSbKuBBV4W5wSmsXr58CX7fNpwtTWZsLo
 
 La derière version "2025-12-10-La Théorie du bon objet.pdf" est disponible ici : https://mega.nz/file/Y8lxFTKR#T1CaqSugy2l7B5VBg2Na9hhwLN-44srEJEGeddWFYSs
 et a été horodaté et signé numériquement par https://opentimestamps.org/, certificat daté du 10.12.2025.
