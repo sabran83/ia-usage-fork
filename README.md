@@ -121,6 +121,9 @@ Si un objet masque son régime d’encapsulation (DRM, obsolescence programmée)
     └── template-rapport.json
 
 
+
+
+
 ## ⚡ Quick start
 
 1. **Évaluer un objet**  
