@@ -109,8 +109,7 @@ Si un objet masque son régime d’encapsulation (DRM, obsolescence programmée)
 
 ## 📦 Structure du dépôt
 
-```text
-/
+```texte
 ├── README.md
 ├── grille-evaluation.md
 ├── protocole-open-objet.md
@@ -119,8 +118,6 @@ Si un objet masque son régime d’encapsulation (DRM, obsolescence programmée)
 └── outils/
     ├── calculateur-score.py
     └── template-rapport.json
-
-
 
 
 
