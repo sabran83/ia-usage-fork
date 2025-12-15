@@ -181,8 +181,8 @@ Chaque communauté peut :
 
 ## 🎓 Citation
 
-« La civilisation avance en étendant le nombre d'opérations importantes que nous pouvons effectuer sans y penser. Elle survit en gardant la possibilité d'y repenser. »
+ **« La civilisation avance en étendant le nombre d'opérations importantes que nous pouvons effectuer sans y penser. Elle survit en gardant la possibilité d'y repenser. » **
 — A.N. Whitehead, Process and Reality (1929)
-L'urgence n'est pas technique, elle est démocratique.
+ **L'urgence n'est pas technique, elle est démocratique. **
 
 
