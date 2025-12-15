@@ -181,10 +181,8 @@ Chaque communauté peut :
 
 ## 🎓 Citation
 
-```bibtex
-@thesis{bon-objet-2025,
-  title  = {Théorie du Bon Objet : Évaluation et conception d'artefacts soutenables},
-  author = {Collectif Open-Objet},
-  year   = {2025},
-  url    = {https://github.com/open-objet/theorie}
-}
+« La civilisation avance en étendant le nombre d'opérations importantes que nous pouvons effectuer sans y penser. Elle survit en gardant la possibilité d'y repenser. »
+— A.N. Whitehead, Process and Reality (1929)
+L'urgence n'est pas technique, elle est démocratique.
+
+
