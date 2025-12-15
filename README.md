@@ -109,7 +109,7 @@ Si un objet masque son régime d’encapsulation (DRM, obsolescence programmée)
 
 ## 📦 Structure du dépôt
 
-```texte
+#texte
 ├── README.md
 ├── grille-evaluation.md
 ├── protocole-open-objet.md
