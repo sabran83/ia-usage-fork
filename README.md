@@ -120,3 +120,71 @@ Si un objet masque son régime d’encapsulation (DRM, obsolescence programmée)
     ├── calculateur-score.py
     └── template-rapport.json
 
+
+## ⚡ Quick start
+
+1. **Évaluer un objet**  
+   → utiliser `grille-evaluation.md` ou le script Python
+
+2. **Auditer une IA**  
+   → suivre le protocole comportemental (chapitre 8)
+
+3. **Proposer une amélioration**  
+   → fork + pull request avec une évaluation OPEN-OBJET complète
+
+---
+
+## 💡 Exemple d’évaluation rapide
+
+### ✅ Linux — **Bon objet** (45/50)
+
+- **U** : 9/10 — alimente 96 % des clouds
+- **CE** : 7/10 — code ouvert, apprentissage exigeant
+- **TA** : 10/10 — transparence totale
+- **R** : 9/10 — live-patch, sources disponibles
+- **CO** : 10/10 — fork possible (ex. Rocky Linux)
+
+---
+
+### ❌ COMPAS — **Mauvais objet** (1/10)
+
+- **U** : 1/2 — justice prédictive
+- **CE** : 0/6 — code propriétaire
+- **TA** : 0/2 — black box
+- **R** : 0/2 — non réparable
+- **CO** : 0/2 — non contestable juridiquement
+
+---
+
+## 📜 Licence
+
+**CC BY-SA 4.0** — partage dans les mêmes conditions  
+
+Ce n’est pas une propriété intellectuelle,  
+mais un **bien commun génétique et culturel**.
+
+---
+
+## 🤝 Contribuer
+
+Le projet est **forkable et ajustable**.  
+Chaque communauté peut :
+
+- Adapter les seuils de la grille
+- Traduire le protocole OPEN-OBJET
+- Mener des audits citoyens
+- Proposer des cas d’étude
+
+> **Principe** : une théorie qui n’est pas contestable par elle-même est un mauvais objet.
+
+---
+
+## 🎓 Citation
+
+```bibtex
+@thesis{bon-objet-2025,
+  title  = {Théorie du Bon Objet : Évaluation et conception d'artefacts soutenables},
+  author = {Collectif Open-Objet},
+  year   = {2025},
+  url    = {https://github.com/open-objet/theorie}
+}
