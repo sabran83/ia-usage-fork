@@ -1,4 +1,3 @@
-```markdown
 # CHAPITRE 8 - ACCRÉDITER L'IA COMME UN MÉDICAMENT
 ## Résumé exécutif pour décideurs
 
