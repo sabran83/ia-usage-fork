@@ -33,10 +33,10 @@ Ce dépôt vise à :
 
 ## 🗂️ Arborescence du dépôt
 
-ia-usage-fork/
--│
--├── README.md
--├── LICENSE
+- ia-usage-fork/
+│
+├── README.md
+├── LICENSE
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
 │
