@@ -33,7 +33,128 @@ Ce dépôt vise à :
 
 ## 🗂️ Arborescence du dépôt
 
----
+ia-usage-fork/
+│
+├── README.md
+├── LICENSE
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+│
+├── docs/
+│ ├── 00-introduction.md
+│ ├── 01-philosophie-technique.md
+│ ├── 02-anthropologie-des-artefacts.md
+│ ├── 03-critique-raison-technique.md
+│ ├── 04-bon-objet-grille.md
+│ ├── 05-criteres-evaluation.md
+│ ├── 06-memoire-technique.md
+│ ├── 07-institutions-critiques.md
+│ ├── 08-accreditation-ia.md
+│ ├── 09-limites-forks-futurs.md
+│ └── glossary.md
+│
+├── chapter-08/
+│ ├── README.md
+│ ├── specification.md
+│ ├── process-flow.md
+│ ├── audit-behavioral.md
+│ ├── citizen-chamber.md
+│ ├── label-system.md
+│ ├── refusal-button.md
+│ ├── sanctions.md
+│ ├── sunset-clause.md
+│ └── failure-modes.md
+│
+├── law-model/
+│ ├── README.md
+│ ├── law-model.md
+│ ├── annexes/
+│ │ ├── annex-a-definitions.md
+│ │ ├── annex-b-procedures.md
+│ │ ├── annex-c-sanctions.md
+│ │ ├── annex-d-appeals.md
+│ │ └── annex-e-international.md
+│ └── comparative-law.md
+│
+├── audit/
+│ ├── README.md
+│ ├── datasets/
+│ │ ├── public-datasets.md
+│ │ ├── cultural-sensitive.md
+│ │ └── dataset-creation-guide.md
+│ ├── protocols/
+│ │ ├── behavioral-testing.md
+│ │ ├── bias-detection.md
+│ │ ├── adversarial-tests.md
+│ │ └── reproducibility.md
+│ └── reports/
+│ └── template.md
+│
+├── governance/
+│ ├── README.md
+│ ├── citizen-selection.md
+│ ├── voting-protocol.md
+│ ├── veto-mechanism.md
+│ ├── transparency.md
+│ ├── rotation-and-anti-capture.md
+│ └── dispute-resolution.md
+│
+├── use-cases/
+│ ├── README.md
+│ ├── approved/
+│ │ └── example-meteo.md
+│ ├── restricted/
+│ │ └── example-health.md
+│ ├── refused/
+│ │ └── example-face-recognition.md
+│ └── edge-cases.md
+│
+├── infrastructure/
+│ ├── README.md
+│ ├── interoperability.md
+│ ├── open-alternatives.md
+│ ├── refusal-infrastructure.md
+│ └── public-platform.md
+│
+├── ethics-memory/
+│ ├── README.md
+│ ├── collective-memory.md
+│ ├── forgetting-right.md
+│ ├── transmission.md
+│ └── repairability.md
+│
+├── un-red-lines/
+│ ├── README.md
+│ ├── clpi.md
+│ ├── indigenous-knowledge.md
+│ ├── genetic-resources.md
+│ ├── benefit-sharing.md
+│ └── nagoya-ia.md
+│
+├── forks/
+│ ├── README.md
+│ ├── national-forks.md
+│ ├── local-experiments.md
+│ └── sunset-evaluations.md
+│
+├── education/
+│ ├── README.md
+│ ├── mooc-outline.md
+│ ├── voting-simulator.md
+│ └── workshops.md
+│
+├── issues-templates/
+│ ├── bug-report.md
+│ ├── critique.md
+│ ├── fork-proposal.md
+│ └── misuse-alert.md
+│
+└── translations/
+├── README.md
+├── fr/
+├── en/
+├── es/
+└── other-languages.md
 
 ## 🔁 Logique du dépôt
 
