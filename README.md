@@ -89,11 +89,11 @@ Si un objet masque son régime d’encapsulation (DRM, obsolescence programmée)
 
 | Échéance | Action | Acteur |
 |--------|-------|-------|
-| 2025 Q2 | Pétition mondiale (1M signatures) | Société civile |
-| 2025 Q4 | Résolution ONU « Création AI-UAA » | États membres |
-| 2026 Q2 | Convention internationale signée | ≥ 50 États |
-| 2027 Q1 | Première session AI-UAA (Genève) | Toutes chambres |
-| 2028 | Premier label 🟢 délivré | YouTube (usage météo) |
+| 2026 Q2 | Pétition mondiale (1M signatures) | Société civile |
+| 2026 Q4 | Résolution ONU « Création AI-UAA » | États membres |
+| 2027 Q2 | Convention internationale signée | ≥ 50 États |
+| 2028 Q1 | Première session AI-UAA (Genève) | Toutes chambres |
+| 2029 | Premier label 🟢 délivré | YouTube (usage météo) |
 
 ---
 
