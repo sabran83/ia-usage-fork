@@ -1,4 +1,4 @@
-# INTRODUCTION - La théorie du bon objet
+# INTRODUCTION - La théorie du bon objet -
 
 ## Pourquoi ce projet existe
 
