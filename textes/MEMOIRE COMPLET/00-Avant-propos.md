@@ -25,7 +25,7 @@ L’Homme sapiens devient **Homo connectus** : un hybride chair-code dont la mé
 Comme l’eau pour le poisson, le **virtuel** est devenu notre milieu natal.  
 L’IA générative n’est pas un outil : c’est un **catalyseur évolutif** qui :  
 
-- détecte des schémas trop vastes pour notre cortex  
+- va détecter des schémas trop vastes pour notre cortex  
 - génère des représentations trop complexes pour notre langage  
 - propose des décisions trop rapides pour notre conscience  
 
