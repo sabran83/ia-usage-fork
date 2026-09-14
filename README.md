@@ -183,7 +183,7 @@ Chaque communauté peut :
 Le plus grand danger d'une intelligence artificielle parfaite n'est pas qu'elle nous domine, mais qu'elle nous dispense progressivement de devenir humains.
 La théorie du bon objet apparaît moins comme une théorie des objets que comme une théorie de la manière dont les humains doivent encapsuler et gouverner la complexité sans perdre leur autonomie.
 
- **« La civilisation avance en étendant le nombre d'opérations importantes que nous pouvons effectuer sans y penser. Elle survit en gardant la possibilité d'y repenser. » **
+ **« La civilisation avance   en étendant le nombre d'opérations importantes que nous pouvons effectuer sans y penser. Elle survit en gardant la possibilité d'y repenser. » **
 — A.N. Whitehead, Process and Reality (1929)
  **L'urgence n'est pas technique, elle est démocratique. **
 
