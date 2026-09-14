@@ -182,7 +182,7 @@ Chaque communauté peut :
 ## 🎓 Citation
 La finalité de la technique n'est pas de remplacer l'humain, mais d'augmenter ses capacités.
 
-Un bon objet est un objet qui augmente l'humain sans le déposséder progressivement de sa capacité à comprendre, réparer, contester et transmettre.
+**Un bon objet est un objet qui augmente l'humain sans le déposséder progressivement de sa capacité à comprendre, réparer, contester et transmettre.**
 
 Le plus grand danger d'une intelligence artificielle parfaite n'est pas qu'elle nous domine, mais qu'elle nous dispense progressivement de devenir humains.
 
