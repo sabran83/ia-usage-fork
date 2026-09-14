@@ -180,11 +180,24 @@ Chaque communauté peut :
 ---
 
 ## 🎓 Citation
-La finalité de la technique n'est pas de remplacer l'humain mais d'augmenter ses capacités. Le plus grand danger d'une intelligence artificielle parfaite n'est pas qu'elle nous domine, mais qu'elle nous dispense progressivement de devenir humains.
-La théorie du bon objet apparaît moins comme une théorie des objets que comme une théorie de la manière dont les humains doivent encapsuler et gouverner la complexité sans perdre leur autonomie.
+La finalité de la technique n'est pas de remplacer l'humain, mais d'augmenter ses capacités.
 
- **« La civilisation avance   en étendant le nombre d'opérations importantes que nous pouvons effectuer sans y penser. Elle survit en gardant la possibilité d'y repenser. » **
-— A.N. Whitehead, Process and Reality (1929)
- **L'urgence n'est pas technique, elle est démocratique. **
+Un bon objet est un objet qui augmente l'humain sans le déposséder progressivement de sa capacité à comprendre, réparer, contester et transmettre.
+
+Le plus grand danger d'une intelligence artificielle parfaite n'est pas qu'elle nous domine, mais qu'elle nous dispense progressivement de devenir humains.
+
+La théorie du Bon Objet apparaît moins comme une théorie des objets que comme une théorie de la manière dont les humains doivent encapsuler et gouverner la complexité sans perdre leur autonomie.
+
+Autrement dit :
+
+Comment une civilisation conserve-t-elle sa souveraineté cognitive lorsque ses artefacts deviennent plus complexes qu'elle ?
+
+Cette question conduit à une théorie de la gouvernance de la complexité.
+
+« La civilisation avance en étendant le nombre d'opérations importantes que nous pouvons effectuer sans y penser. Elle survit en gardant la possibilité d'y repenser. »
+
+— A. N. Whitehead
+
+L'urgence n'est pas technique. Elle est démocratique.
 
 
