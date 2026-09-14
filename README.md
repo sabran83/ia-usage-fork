@@ -180,6 +180,7 @@ Chaque communauté peut :
 ---
 
 ## 🎓 Citation
+La théorie du bon objet apparaît moins comme une théorie des objets que comme une théorie de la manière dont les humains doivent encapsuler et gouverner la complexité sans perdre leur autonomie.
 
  **« La civilisation avance en étendant le nombre d'opérations importantes que nous pouvons effectuer sans y penser. Elle survit en gardant la possibilité d'y repenser. » **
 — A.N. Whitehead, Process and Reality (1929)
