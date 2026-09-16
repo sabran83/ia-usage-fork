@@ -119,30 +119,25 @@ Linux apparaît dans cette évaluation comme un **objet à impact très positif 
 
 ## Conclusion globale OPEN‑OBJET + IMPACT‑OBJET
 
-OPEN‑OBJET : 64/100 🟡
- IMPACT‑OBJET : 71/100 🟡
+OPEN‑OBJET : 90 à 95/100 🟢
+ IMPACT‑OBJET : 85 à 90/100 🟢
 
-Microsoft Windows présente un profil particulièrement intéressant car il illustre la différence fondamentale entre la qualité structurelle d’un objet et la qualité de ses effets.
+Linux présente un profil particulièrement rare dans l'univers numérique contemporain : il conjugue un niveau élevé d'ouverture structurelle avec un impact globalement très positif sur les individus, les organisations et l'écosystème numérique.
 
-Du point de vue OPEN‑OBJET, Windows apparaît comme un bon objet perfectible. Son utilité, sa robustesse et sa diffusion mondiale sont incontestables, mais son caractère propriétaire limite fortement sa transparence, son auditabilité et sa gouvernance collective. L’objet repose davantage sur la confiance accordée à son éditeur que sur la possibilité d’un contrôle indépendant par la communauté.
+Du point de vue OPEN‑OBJET, Linux constitue l'un des exemples les plus aboutis de système technique ouvert. Son code source est accessible, sa gouvernance est distribuée, ses mécanismes sont documentés, auditables et modifiables. La communauté peut analyser, critiquer, réparer, améliorer ou même forker le système si nécessaire. Il répond ainsi pleinement aux principes de transparence, de réparabilité et de contestabilité qui fondent la théorie du Bon Objet.
 
-Du point de vue IMPACT‑OBJET, Windows obtient un résultat supérieur. Le système a contribué de manière majeure à la diffusion des compétences numériques, à la démocratisation de l’informatique et au développement des usages professionnels, éducatifs et collaboratifs. Son impact global sur la capacité d’agir des individus et des organisations demeure largement positif.
+Du point de vue IMPACT‑OBJET, Linux contribue fortement au développement des compétences numériques, à l'autonomie technique des utilisateurs et à la diffusion des savoirs. Son rôle dans l'infrastructure d'Internet, du cloud, des supercalculateurs, de la recherche scientifique et de nombreux services publics démontre son utilité collective. Il favorise également la réutilisation du matériel, prolonge la durée de vie des équipements et limite certaines formes de dépendance technologique.
 
-Cette différence entre les deux scores montre qu’un objet peut produire des bénéfices importants sans être pleinement ouvert. Elle confirme l’intérêt de distinguer ce qu’est l’objet de ce qu’il produit.
+Cette convergence entre ouverture et impact positif constitue l'un des enseignements majeurs de l'évaluation.
 
-Windows illustre ainsi une catégorie particulière d’artefacts : des objets à fort impact positif mais dont la gouvernance reste relativement fermée. Cette situation ne remet pas en cause leur utilité immédiate, mais interroge leur soutenabilité à long terme du point de vue de l’autonomie collective, de la transparence et de la résilience démocratique.
+Linux démontre qu'il n'existe pas nécessairement d'opposition entre performance, innovation et maîtrise collective. Au contraire, son histoire montre qu'un objet peut demeurer efficace précisément parce qu'il reste ouvert à la critique, à l'amélioration et à l'appropriation par ses utilisateurs.
 
-L’évaluation combinée conduit donc à considérer Windows comme un objet utile, structurant et globalement bénéfique, mais dont l’ouverture insuffisante constitue la principale limite civilisationnelle.
+Les limites identifiées concernent principalement la complexité technique de certaines distributions, la courbe d'apprentissage parfois élevée pour les nouveaux utilisateurs et l'existence persistante de composants matériels propriétaires dans certains environnements. Ces éléments réduisent légèrement son accessibilité mais ne remettent pas en cause son équilibre général.
 
-Plus largement, ce cas confirme la pertinence du double référentiel :
+La lecture conjointe des deux référentiels conduit donc à considérer Linux comme un excellent objet infrastructurel, à la fois ouvert dans sa conception et bénéfique dans ses effets.
 
-OPEN‑OBJET mesure la gouvernabilité de l’objet ;
-IMPACT‑OBJET mesure les conséquences de son existence.
+Il constitue probablement l'une des illustrations les plus proches de l'idéal poursuivi par la théorie du Bon Objet :
 
-Un objet peut être ouvert sans être bénéfique.
+un artefact suffisamment performant pour être massivement adopté, suffisamment transparent pour être compris, suffisamment réparable pour être maintenu dans le temps et suffisamment contestable pour ne jamais devenir une infrastructure de domination.
 
-Un objet peut être bénéfique sans être ouvert.
-
-Seule la lecture conjointe des deux évaluations permet d’apprécier pleinement sa contribution réelle au bien commun.
-
-Au regard de cette double analyse, Windows apparaît non comme un modèle idéal de « bon objet », mais comme un exemple révélateur des compromis qui caractérisent une grande partie des infrastructures numériques contemporaines : efficaces, largement utiles, mais encore insuffisamment ouvertes pour permettre une véritable maîtrise collective de leur évolution.
+En ce sens, Linux ne représente pas seulement un système d'exploitation performant. Il constitue également un exemple concret de gouvernance technique compatible avec l'autonomie individuelle et la résilience collective. C'est précisément cette combinaison entre ouverture et impact positif qui explique son positionnement parmi les références majeures du référentiel OPEN‑OBJET et IMPACT‑OBJET.
