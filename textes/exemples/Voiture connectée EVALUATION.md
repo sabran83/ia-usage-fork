@@ -167,3 +167,37 @@ La voiture électrique connectée apparaît dans cette évaluation comme un **ob
 Toutefois, ces avantages sont fortement contrebalancés par de nouvelles dépendances technologiques, un accès encore inégal, une réparabilité limitée et une concentration importante du pouvoir entre les mains des constructeurs.
 
 L'objet améliore certains aspects de la mobilité moderne mais ne constitue pas encore une réponse pleinement satisfaisante aux enjeux d'autonomie, de durabilité et de gouvernance ouverts.
+
+# Conclusion globale OPEN‑OBJET + IMPACT‑OBJET
+
+**OPEN‑OBJET : 9/100 🔴**
+
+**IMPACT‑OBJET : 47/100 🟠**
+
+La voiture électrique connectée présente un profil particulièrement révélateur des tensions qui caractérisent de nombreux objets technologiques contemporains. Elle combine une utilité fonctionnelle importante avec un très faible niveau d'ouverture structurelle.
+
+Du point de vue OPEN‑OBJET, la voiture électrique connectée apparaît comme un **mauvais objet**. Bien que sa fonction de mobilité soit efficace et largement adoptée, son architecture repose sur des logiciels propriétaires, des systèmes verrouillés et des mécanismes largement opaques pour les utilisateurs. Les possibilités d'audit, de réparation indépendante, de modification ou de contrôle citoyen sont extrêmement limitées. L'utilisateur bénéficie des services de l'objet sans réellement pouvoir comprendre ou maîtriser son fonctionnement interne.
+
+Du point de vue IMPACT‑OBJET, le résultat est plus nuancé. La voiture électrique apporte des bénéfices réels en matière de mobilité individuelle, de réduction des émissions locales et de confort d'utilisation. Elle participe également à certaines évolutions positives liées à la transition énergétique et à la réduction des nuisances sonores en ville.
+
+Cependant, ces avantages sont contrebalancés par plusieurs limites importantes. La fabrication des batteries mobilise des ressources stratégiques considérables, les systèmes électroniques demeurent difficiles à réparer et les utilisateurs deviennent dépendants d'écosystèmes techniques complexes. À cela s'ajoutent la concentration du pouvoir entre quelques grands constructeurs, la collecte massive de données et l'impossibilité pour les citoyens de contrôler les logiciels qui pilotent une partie croissante des fonctions essentielles du véhicule.
+
+La différence entre les deux scores montre qu'un objet peut rester utile tout en étant structurellement fermé. La voiture électrique connectée n'est pas un objet inutile ou inefficace. Au contraire, elle répond à des besoins réels. Mais son mode de gouvernance technique limite fortement la capacité des utilisateurs à comprendre, modifier ou contester son fonctionnement.
+
+Cette double évaluation confirme l'intérêt du double référentiel :
+
+- **OPEN‑OBJET** mesure la gouvernabilité de l'objet ;
+- **IMPACT‑OBJET** mesure les conséquences de son existence.
+
+Un objet peut être ouvert sans être bénéfique.
+
+Un objet peut être bénéfique sans être ouvert.
+
+La voiture électrique connectée illustre précisément cette seconde situation : un objet dont certains effets sont positifs mais dont l'ouverture reste très faible.
+
+Au regard de cette double analyse, la voiture électrique connectée apparaît comme un **objet utile mais fortement verrouillé**, dont les bénéfices pratiques sont partiellement affaiblis par une dépendance croissante à des infrastructures numériques, des logiciels propriétaires et des mécanismes décisionnels opaques.
+
+Plus largement, ce cas montre que la transition écologique ne garantit pas automatiquement une transition démocratique ou une amélioration de l'autonomie citoyenne. Un objet peut réduire certaines émissions tout en renforçant simultanément les dépendances techniques, économiques et informationnelles.
+
+La voiture électrique connectée constitue ainsi un exemple emblématique d'objet technologiquement avancé mais insuffisamment ouvert. Son principal défi pour les années à venir ne sera probablement pas seulement d'améliorer ses performances environnementales, mais également de renforcer sa transparence, sa réparabilité, son interopérabilité et la capacité des citoyens à participer à sa gouvernance technique.
+
