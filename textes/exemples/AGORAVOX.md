@@ -87,9 +87,7 @@ Une meilleure transparence organisationnelle permettrait de rapprocher AgoraVox 
 
 ---
 
-# BLOC 2 : IMPACT‑OBJET COMPLET
-
-## ÉVALUATION IMPACT‑OBJET : AGORAVOX
+#  ÉVALUATION IMPACT‑OBJET : AGORAVOX
 
 | Critère | Note | Justification | Pourquoi pas moins ? | Pourquoi pas plus ? |
 |----------|----------|----------|----------|----------|
