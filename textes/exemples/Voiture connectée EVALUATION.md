@@ -84,3 +84,86 @@ La voiture électrique connectée apparaît dans cette évaluation comme un **ma
 L'objet illustre une situation où la performance fonctionnelle ne s'accompagne pas d'ouverture structurelle. Les utilisateurs bénéficient d'un service efficace mais ne disposent que d'un contrôle limité sur son fonctionnement, sa maintenance et son évolution.
 
 La principale faiblesse de cet objet réside donc moins dans sa fonction que dans sa gouvernance technique, son manque de transparence et sa dépendance à des systèmes propriétaires.
+
+# ÉVALUATION IMPACT‑OBJET
+**Objet évalué : Voiture électrique connectée**
+
+| Critère | Note | Justification | Pourquoi pas moins ? | Pourquoi pas plus ? |
+|----------|------|---------------|----------------------|---------------------|
+| A1. Favorise l'autonomie individuelle | 3/4 🟢 | La voiture électrique permet aux personnes de se déplacer librement et d'accéder à des lieux difficilement atteignables autrement. Elle renforce l'autonomie de mobilité dans de nombreux territoires. | Elle augmente réellement la capacité de déplacement individuelle. | La dépendance aux infrastructures de recharge et aux logiciels limite l'autonomie complète. |
+| A2. Développe les compétences | 2/4 🟠 | L'utilisateur acquiert certaines compétences liées à l'écomobilité et à la gestion énergétique. Toutefois, les systèmes automatisés réduisent souvent la compréhension technique du véhicule. | Des apprentissages réels existent. | Les logiciels propriétaires limitent fortement l'appropriation technique. |
+| A3. Réduit les dépendances | 2/4 🟠 | Elle réduit la dépendance aux carburants fossiles mais crée une dépendance aux constructeurs, systèmes numériques et réseaux de recharge. | La réduction de la dépendance pétrolière est significative. | De nouvelles dépendances technologiques apparaissent. |
+| A4. Facilite le libre choix | 2/4 🟠 | Le marché se développe mais reste concentré autour de quelques grands acteurs industriels. | Plusieurs modèles existent. | Les écosystèmes restent relativement fermés. |
+| A5. Renforce la capacité d'agir | 4/4 🟢 | Elle permet des déplacements rapides, l'accès à l'emploi, aux services et aux activités sociales. | Son impact pratique est considérable. | Note maximale atteinte. |
+| S1. Risques physiques | 2/4 🟠 | Comme tout véhicule motorisé, elle reste associée à un risque d'accident et de blessure. | Les normes de sécurité modernes réduisent fortement les risques. | Le danger physique inhérent à la circulation demeure. |
+| S2. Risques psychologiques | 3/4 🟢 | Les systèmes d'assistance améliorent le confort de conduite mais peuvent créer une dépendance à certaines aides numériques. | L'usage reste globalement bénéfique. | La surconfiance dans les automatismes peut poser problème. |
+| S3. Prévisibilité des risques | 2/4 🟠 | Les risques mécaniques sont connus mais certains comportements logiciels restent difficiles à anticiper. | Une partie importante des risques est documentée. | Les algorithmes demeurent parfois opaques. |
+| S4. Protection des utilisateurs | 3/4 🟢 | Les voitures électriques modernes disposent de nombreux dispositifs de sécurité active et passive. | Les protections sont nombreuses et efficaces. | L'utilisateur ne contrôle pas toujours leur fonctionnement. |
+| S5. Amélioration du bien‑être | 3/4 🟢 | Elles réduisent le bruit, améliorent le confort de conduite et diminuent certaines nuisances urbaines. | Les bénéfices pour les usagers sont réels. | Les effets restent limités par les contraintes économiques et infrastructurelles. |
+| E1. Consommation de ressources | 1/4 🔴 | La fabrication des batteries nécessite l'extraction de ressources importantes et des processus industriels complexes. | Les performances environnementales en usage sont meilleures que certaines alternatives thermiques. | L'extraction des matériaux reste fortement consommatrice de ressources. |
+| E2. Durabilité | 2/4 🟠 | La durée de vie du véhicule est importante, mais celle des batteries et des logiciels reste plus problématique. | Les véhicules modernes peuvent durer longtemps. | Les composants critiques ont une durée de vie limitée. |
+| E3. Réparabilité écologique | 1/4 🔴 | Les batteries et systèmes électroniques sont souvent difficiles à réparer ou remplacer hors réseaux spécialisés. | Certaines filières progressent dans ce domaine. | La réparabilité demeure faible. |
+| E4. Pollution générée | 2/4 🟠 | L'usage génère peu d'émissions locales mais la fabrication et la production énergétique conservent un impact notable. | Les émissions directes sont faibles. | L'empreinte globale reste importante. |
+| E5. Recyclabilité | 2/4 🟠 | Les matériaux peuvent être recyclés mais les filières restent complexes et incomplètes. | Des progrès significatifs existent. | Le recyclage n'est pas encore pleinement maîtrisé. |
+| C1. Coopération | 2/4 🟠 | Elle favorise certains usages collectifs mais reste principalement pensée pour un usage individuel. | Des solutions de partage existent. | La logique dominante reste individualiste. |
+| C2. Inclusion | 2/4 🟠 | Son coût limite encore son accès à une partie importante de la population. | Les aides publiques améliorent l'accès. | Les barrières économiques demeurent élevées. |
+| C3. Accès équitable | 1/4 🔴 | Les infrastructures de recharge et les capacités financières créent des inégalités d'accès. | L'offre se développe progressivement. | L'accès n'est pas encore équitable selon les territoires. |
+| C4. Transmission des savoirs | 1/4 🔴 | Les connaissances techniques sont largement verrouillées par les constructeurs. | Certaines informations sont accessibles. | Les éléments essentiels restent fermés. |
+| C5. Confiance collective | 2/4 🟠 | Les usagers accordent une confiance croissante au véhicule électrique mais des interrogations persistent concernant les batteries et les données. | Les performances sont reconnues. | Le manque de transparence limite une confiance totale. |
+| P1. Concentration du contrôle | 0/4 🔴 | Les logiciels, données et mises à jour restent sous le contrôle des constructeurs. | — | Le contrôle est fortement centralisé. |
+| P2. Dépendance à un acteur unique | 0/4 🔴 | L'utilisateur dépend fortement du constructeur pour les mises à jour, diagnostics et fonctionnalités critiques. | — | La dépendance est structurelle. |
+| P3. Liberté d'usage | 2/4 🟠 | L'objet offre une liberté de déplacement importante mais une faible liberté d'intervention technique. | Les usages quotidiens sont variés. | Les restrictions logicielles demeurent fortes. |
+| P4. Neutralité | 1/4 🔴 | Les choix techniques et algorithmiques sont déterminés par le constructeur sans véritable contrôle citoyen. | Certaines réglementations encadrent ces pratiques. | L'utilisateur ne maîtrise pas les logiques internes. |
+| P5. Résilience institutionnelle | 2/4 🟠 | Le véhicule dépend d'écosystèmes énergétiques, logiciels et industriels complexes. | Les infrastructures sont importantes et redondantes. | Cette dépendance réduit fortement la résilience globale. |
+| **TOTAL IMPACT‑OBJET (100)** | **47/100 🟠** | **Objet à impact mitigé : bénéfique pour la mobilité et certaines réductions d'émissions locales, mais limité par sa dépendance technologique, son coût et son impact matériel.** | | |
+
+# NOMBRE TOTAL D'IMPACTS POSITIFS : 47 /100 🟠
+
+| Niveau | Interprétation |
+|----------|----------|
+| 🟢 **Impact très positif** | 80 – 100 |
+| 🟡 **Impact positif mais perfectible** | 60 – 79 |
+| 🟠 **Impact mitigé** | 40 – 59 |
+| 🔴 **Impact globalement négatif** | 0 – 39 |
+
+# Diagnostic IMPACT‑OBJET
+
+## Forces principales
+
+- Renforce la mobilité individuelle.
+- Réduit les émissions locales en circulation.
+- Diminue les nuisances sonores urbaines.
+- Offre un haut niveau de confort et de sécurité.
+- Réduit partiellement la dépendance aux carburants fossiles.
+
+## Faiblesses principales
+
+- Forte dépendance technologique.
+- Accès inégal selon les revenus et les territoires.
+- Réparabilité limitée.
+- Impact environnemental de la production des batteries.
+- Concentration du pouvoir chez les constructeurs.
+
+## Risques identifiés
+
+- Obsolescence logicielle.
+- Dépendance aux infrastructures de recharge.
+- Concentration industrielle accrue.
+- Collecte massive de données.
+- Difficulté de maintenance indépendante.
+
+## Recommandations d'amélioration
+
+1. Renforcer le droit à la réparation.
+2. Développer des logiciels ouverts et auditables.
+3. Améliorer la recyclabilité des batteries.
+4. Favoriser les standards interopérables.
+5. Réduire les dépendances aux écosystèmes propriétaires.
+
+# Conclusion IMPACT‑OBJET
+
+La voiture électrique connectée apparaît dans cette évaluation comme un **objet à impact mitigé (47/100)**. Elle apporte des bénéfices réels en matière de mobilité, de réduction des nuisances locales et de transition énergétique.
+
+Toutefois, ces avantages sont fortement contrebalancés par de nouvelles dépendances technologiques, un accès encore inégal, une réparabilité limitée et une concentration importante du pouvoir entre les mains des constructeurs.
+
+L'objet améliore certains aspects de la mobilité moderne mais ne constitue pas encore une réponse pleinement satisfaisante aux enjeux d'autonomie, de durabilité et de gouvernance ouverts.
