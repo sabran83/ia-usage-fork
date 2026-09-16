@@ -151,8 +151,38 @@
 
 ## Conclusion IMPACT‑OBJET
 
-Microsoft Windows apparaît dans cette évaluation comme un **objet à impact globalement positif (71/100)**. Son rôle dans la diffusion des compétences numériques, l'accès aux services informatiques et la coopération entre individus et organisations est considérable. Toutefois, cette contribution positive est partiellement compensée par une forte concentration du pouvoir, une dépendance importante à un acteur unique et certains impacts indirects sur l'environnement. Son impact demeure favorable, mais plusieurs leviers d'amélioration permettraient d'accroître son bénéfice collectif.
+Microsoft Windows apparaît dans cette évaluation comme un bon objet perfectible (64/100). Son utilité, sa robustesse opérationnelle et son adoption mondiale démontrent une capacité remarquable à encapsuler la complexité informatique pour la rendre accessible à une large population. À ce titre, Windows constitue un puissant vecteur de diffusion des usages numériques.
+
+Cependant, sa nature profondément propriétaire limite significativement son ouverture. L'absence d'accès au code source, l'auditabilité partielle du système et la forte centralisation de sa gouvernance réduisent la capacité du collectif à comprendre, contester ou modifier pleinement les mécanismes qui le structurent.
+
+Windows illustre ainsi l'un des enseignements majeurs du référentiel OPEN‑OBJET : un objet peut être extrêmement utile sans être pleinement ouvert. Il constitue moins un mauvais objet qu'un objet dont la performance repose largement sur la confiance accordée à son éditeur plutôt que sur la possibilité d'un contrôle collectif indépendant.
+
+Son principal levier de progression réside donc dans l'amélioration de la transparence, de l'auditabilité et de la participation effective des utilisateurs à l'évolution du système.
 
 ## Conclusion OPEN‑OBJET
 
-Microsoft Windows apparaît dans cette évaluation comme un **bon objet perfectible (64/100)**. Son utilité, sa robustesse et son adoption mondiale constituent des atouts majeurs. Toutefois, son caractère propriétaire limite significativement son ouverture, sa transparence et son auditabilité. Windows démontre qu'un objet peut être extrêmement utile sans être pleinement ouvert. Une amélioration de la transparence et de la participation des utilisateurs constituerait le principal levier d'amélioration de son score OPEN‑OBJET.
+Microsoft Windows apparaît dans cette évaluation comme un objet à impact globalement positif (71/100). Son influence sur l'accès à l'informatique, le développement des compétences numériques, la coopération professionnelle et la diffusion des savoirs est considérable. Depuis plusieurs décennies, il contribue à accroître la capacité d'agir de millions d'individus, d'organisations et d'institutions.
+
+Toutefois, cette contribution positive s'accompagne de plusieurs contreparties significatives : dépendance à un acteur unique, concentration du pouvoir technique, renouvellement fréquent des équipements et effets de verrouillage de l'écosystème. Ces éléments n'annulent pas les bénéfices observés, mais limitent leur portée à long terme.
+
+Windows illustre parfaitement le fait qu'un objet peut produire un impact positif réel tout en générant des dépendances structurelles importantes. Son bilan global demeure favorable, mais l'amélioration de l'interopérabilité, de la sobriété numérique et de l'autonomie des utilisateurs permettrait d'augmenter significativement sa contribution au bien commun.
+
+## Conclusion globale OPEN + IMPACT
+
+La confrontation des deux évaluations constitue sans doute le résultat le plus intéressant.
+
+OPEN‑OBJET : 64/100 🟡
+ IMPACT‑OBJET : 71/100 🟡
+
+Windows démontre qu'un objet peut produire des effets largement bénéfiques pour la société tout en conservant une structure relativement fermée. Son impact social, éducatif et économique est supérieur à son niveau d'ouverture.
+
+Cette dissociation confirme la pertinence de la séparation entre OPEN‑OBJET et IMPACT‑OBJET :
+
+OPEN‑OBJET mesure la qualité de gouvernance de l'objet ;
+IMPACT‑OBJET mesure la qualité de ses conséquences.
+
+Sans cette distinction, Windows pourrait être perçu soit comme un succès incontestable, soit comme un système trop fermé. La double lecture révèle une réalité plus nuancée : Windows est un objet utile et globalement bénéfique, mais dont la dépendance à une gouvernance centralisée limite la soutenabilité civilisationnelle à long terme.
+
+Il constitue ainsi un exemple typique d'objet à impact positif supérieur à son niveau d'ouverture, démontrant que la qualité d'un objet ne peut être réduite ni à sa seule performance, ni à sa seule transparence.
+
+C'est précisément cette tension entre efficacité et ouverture qui justifie l'existence conjointe des référentiels OPEN‑OBJET et IMPACT‑OBJET.
