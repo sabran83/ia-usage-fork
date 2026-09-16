@@ -168,7 +168,7 @@ Dans l'ensemble, les bénéfices sociétaux apparaissent supérieurs aux risques
 
 ---
 
-# BLOC 3 : CONCLUSION GLOBALE
+## CONCLUSION GLOBALE :
 
 # Conclusion globale OPEN‑OBJET + IMPACT‑OBJET
 
