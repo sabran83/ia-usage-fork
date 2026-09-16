@@ -30,6 +30,14 @@
 | CO5. Alternatives / substituts | 3/4 🟢 | Les utilisateurs disposent de nombreuses distributions Linux ainsi que d'autres systèmes libres. | Le choix est vaste. | Certaines dépendances logicielles limitent la mobilité complète. |
 | **TOTAL OPEN‑OBJET** | **88/100 🟢** | **Linux constitue un excellent objet ouvert : transparent, auditable, modifiable et largement gouverné de manière collective.** | | |
 
+## Conclusion OPEN‑OBJET
+
+Linux apparaît dans cette évaluation comme un **excellent objet (88/100)**. Son code source ouvert, sa transparence, sa réparabilité et son haut niveau de contestabilité en font l'un des exemples les plus aboutis de la philosophie OPEN‑OBJET. Les utilisateurs disposent d'un contrôle réel sur le système, peuvent l'étudier, le modifier et participer à son évolution.
+
+Ses principales limites ne concernent pas son ouverture mais son accessibilité. Malgré les progrès réalisés par de nombreuses distributions, Linux reste parfois difficile à appréhender pour les utilisateurs non techniques. L'amélioration de l'expérience utilisateur et de la pédagogie constitue donc son principal axe de progression.
+
+Linux démontre qu'il est possible de construire un système numérique performant, durable et largement gouverné de manière collective. Il constitue aujourd'hui une référence majeure pour l'évaluation des objets ouverts.
+
 # ÉVALUATION IMPACT‑OBJET
 **Objet évalué : Linux**
 
