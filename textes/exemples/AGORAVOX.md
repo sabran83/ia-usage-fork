@@ -171,9 +171,9 @@ Dans l'ensemble, les bénéfices sociétaux apparaissent supérieurs aux risques
 
 # Conclusion globale "OPEN+OBJET" + "IMPACT+OBJET"
 
-**OPEN‑OBJET : 78/100**
+**OPEN+OBJET : 78/100**
 
-**IMPACT‑OBJET : 82/100**
+**IMPACT+OBJET : 82/100**
 
 AgoraVox est un média numérique participatif dont la vocation consiste à permettre aux citoyens de produire, diffuser et discuter de l'information en dehors des circuits médiatiques traditionnels. Depuis sa création, l'objet occupe une position singulière dans l'écosystème de l'information en ligne.
 
