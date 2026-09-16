@@ -1,46 +1,86 @@
-# ÉVALUATION "OPEN"-OBJET : Voiture connectée
-**Objet** : Véhicule assisté par logiciels propriétaires  
+# ÉVALUATION "OPEN"-OBJET 
+**Objet évalué : Voiture électrique connectée** 
 **Date** : 08/12/2025  
 **Évaluateur** : Citoyen-33333 (public)  
 
-## Score par critère détaillé (25 sous-critères, total 100 points)
 
-| Critère / Sous-critère | Score /4 | Détail / Justification |
-|------------------------|----------|----------------------|
-| **U – Utilité réelle (Total 20)** | **14/20 🟡** |                        |
-| 1. Pertinence fonctionnelle | 4/4 🟢 | Permet le transport motorisé efficace et rapide. <br> Facilite la mobilité individuelle sur longues distances. <br> Réduit le temps de trajet comparé aux modes non motorisés. <br> Standard industriel largement adopté. <br> Compatible infrastructures existantes. <br> Sécurité passive incluse via normes. <br> Confort et habitabilité garantis. <br> Assure fonctionnalité pour usage quotidien. <br> Favorise connectivité avec systèmes embarqués. <br> Base pour véhicules autonomes futurs. |
-| 2. Impact réel | 4/4 🟢 | Transport de personnes et marchandises assuré quotidiennement. <br> Génère activité économique majeure (industrie, énergie, entretien). <br> Influence sur urbanisme et mobilité. <br> Création d’emplois associés. <br> Facilite commerce et logistique. <br> Réduction du temps de déplacement individuel. <br> Impact positif sur mobilité urbaine planifiée. <br> Intégration avec services numériques. <br> Compatible avec standards internationaux. <br> Renforce autonomie de déplacement. |
-| 3. Usage effectif | 3/4 🟡 | Véhicules utilisés massivement par particuliers et entreprises. <br> Usage quotidien généralisé. <br> Applications multiples (loisir, travail, transport marchandises). <br> Adoption variable selon régions et infrastructures. <br> Nécessite apprentissage pour certains logiciels embarqués. <br> Dépendance aux fournisseurs pour mises à jour. <br> Usage partiellement limité par compatibilité logicielle. <br> Adaptation nécessaire pour technologies connectées. <br> Interopérabilité limitée avec systèmes tiers. <br> Usage optimal souvent réservé à usagers technophiles. |
-| 4. Accessibilité | 2/4 🟡 | Véhicules disponibles sur le marché grand public. <br> Coût d’acquisition élevé pour certaines gammes. <br> Entretien parfois dépendant de concessionnaires. <br> Logiciels propriétaires limitent modification ou réparation. <br> Accessibilité limitée pour citoyens moyens sans expertise technique. <br> Nécessite infrastructures (station service, bornes recharge). <br> Formation ou documentation requise pour certains outils numériques embarqués. <br> Disponibilité des pièces variable selon modèle. <br> Coût total d’usage parfois prohibitif. <br> Accessibilité générale partielle. |
-| 5. Documentation | 1/4 🟡 | Manuels constructeur disponibles mais souvent techniques. <br> Documentation logicielle limitée et fermée. <br> Absence de code source pour audit indépendant. <br> Guides utilisateurs centrés sur fonctions basiques. <br> Explications techniques partielles pour réparation autonome. <br> Documentation réglementaire limitée à sécurité et homologation. <br> Informations sur logiciels propriétaires manquantes. <br> Support technique dépend des concessionnaires. <br> Guides en ligne partiels et incomplets. <br> Transparence faible pour citoyen ordinaire. |
-| **CE – Complexité Encapsulée (Total 20)** | **5/20 🔴** |                        |
-| 1. Documentation technique | 1/4 🔴 | Documentation partielle. <br> Logiciels embarqués non accessibles. <br> Informations techniques limitées aux concessionnaires. <br> Révision ou audit indépendant impossible. <br> Complexité logicielle opaque. <br> Architecture réseau embarquée complexe et propriétaire. <br> Processus internes non décrits. <br> Dépendance aux mises à jour constructeur. <br> Standardisation interne non expliquée publiquement. <br> Auditabilité quasi nulle pour citoyens. |
-| 2. Modularité / ouverture | 0/4 🔴 | Logiciels propriétaires non modifiables. <br> Modules internes interdépendants et verrouillés. <br> Interopérabilité avec autres systèmes faible. <br> Mise à jour uniquement via constructeur. <br> Ajout de fonctionnalités restreint. <br> Aucun accès pour personnalisation citoyenne. <br> Architecture fermée empêche innovation externe. <br> Dépendance totale à l’écosystème constructeur. <br> Flexibilité zéro pour utilisateurs. <br> Système verrouillé et propriétaire. |
-| 3. Auditabilité | 0/4 🔴 | Code fermé impossible à auditer. <br> Pas de vérification citoyenne possible. <br> Défaillances logicielles non traçables indépendamment. <br> Sécurité dépend entièrement du constructeur. <br> Transparence zéro sur collecte de données. <br> Mises à jour opaques et automatiques. <br> Vérification réglementaire limitée. <br> Pas de possibilité d’examen externe. <br> Risque de manipulation non détectable. <br> Aucune documentation pour audit citoyen. |
-| 4. Politisation / encapsulation cachée | 0/4 🔴 | Décisions algorithmiques non transparentes. <br> Dépendance aux choix propriétaires. <br> Aucun contrôle démocratique ou citoyen. <br> Collecte de données opaque. <br> Risques d’arbitrage caché par constructeur. <br> Possibilité de manipulation commerciale invisible. <br> Algorithmes propriétaires non expliqués. <br> Effets sociaux inconnus pour usager. <br> Influence des fournisseurs sur usage quotidien. <br> Politisation technique invisible. |
-| 5. Robustesse / simplicité | 1/4 🔴 | Véhicule robuste mécaniquement. <br> Mais système logiciel fragile. <br> Dépendance aux mises à jour. <br> Correctif uniquement via concessionnaire. <br> Difficultés de réparation autonome. <br> Complexité technique opaque pour utilisateur. <br> Robustesse physique vs. fragilité logicielle. <br> Interventions externes limitées. <br> Risque d’immobilisation prolongée. <br> Maintenance complexe pour citoyen. |
-| **TA – Transparence Auditable (Total 20)** | **0/20 🔴** |                        |
-| 1. Documentation claire | 0/4 🔴 | Documentation utilisateur minimale. <br> Code fermé. <br> Informations techniques propriétaires. <br> Impossible pour audit citoyen. <br> Guides incomplets. <br> Support dépendant constructeur. <br> Révisions non documentées. <br> Transparence nulle pour données collectées. <br> Instructions internes non disponibles. <br> Accès limité aux experts constructeur uniquement. |
-| 2. Normes ou standards | 0/4 🔴 | Aucune norme ouverte pour logiciels embarqués. <br> Standards internes opaques. <br> Dépendance aux choix constructeur. <br> Interopérabilité faible. <br> Pas de standardisation externe possible. <br> Contrôle limité pour autorités externes. <br> Normes internes non publiques. <br> Documentation inexistante pour tiers. <br> Standardisation verrouillée. <br> Référence publique inexistante. |
-| 3. Lisibilité des décisions | 0/4 🔴 | Décisions du logiciel opaques. <br> Aucun retour sur algorithmes. <br> Modifications invisibles pour l’usager. <br> Aucune traçabilité pour citoyen. <br> Compréhension impossible sans accès constructeur. <br> Décisions invisibles sur performance ou sécurité. <br> Actions automatiques non transparentes. <br> Contrôle citoyen impossible. <br> Usage quotidien opaque. <br> Risques non mesurables. |
-| 4. Communication externe | 0/4 🔴 | Pas de publication sur algorithmes ou données collectées. <br> Informations limitées aux concessionnaires. <br> Rapports techniques non accessibles. <br> Communication client partielle et commerciale. <br> Aucune transparence sur fonctionnement logiciel. <br> Décisions techniques invisibles. <br> Support limité pour explications. <br> Absence de documentation ouverte. <br> Aucun audit externe possible. <br> Accès restreint aux experts internes. |
-| 5. Accessibilité collective | 0/4 🔴 | Véhicule disponible à l’achat mais système opaque. <br> Aucun accès aux fonctionnalités logicielles critiques. <br> Modification impossible. <br> Entretien limité aux professionnels agréés. <br> Aucun contrôle citoyen. <br> Accès à l’information limité. <br> Participation indirecte impossible. <br> Transparence nulle. <br> Dépendance totale au constructeur. <br> Usage collectif non inclusif. |
-| **R – Réparabilité (Total 20)** | **1/20 🔴** |                        |
-| 1. Correctibilité | 0/4 🔴 | Impossible de corriger les bugs du logiciel par l’usager. <br> Dépendance totale aux mises à jour constructeur. <br> Correctif uniquement via concessionnaire. <br> Réparation autonome impossible. <br> Temps de réparation long. <br> Logiciel verrouillé. <br> Aucune documentation disponible pour modifications. <br> Interventions externes interdites. <br> Aucune traçabilité. <br> Accessibilité citoyenne nulle. |
-| 2. Adaptabilité | 0/4 🔴 | Évolutivité limitée aux choix constructeur. <br> Pas de possibilité d’adaptation locale. <br> Nouveaux modules imposés par fabricant. <br> Flexibilité nulle pour utilisateur. <br> Dépendance totale. <br> Aucun contrôle citoyen. <br> Améliorations externes impossibles. <br> Logiciel propriétaire. <br> Blocage sur écosystème fermé. <br> Adaptabilité zéro. |
-| 3. Documentation aide | 1/4 🔴 | Guides constructeur partiels pour dépannage mécanique. <br> Logiciel non documenté. <br> Informations pour utilisateur limitées. <br> Assistance technique obligatoire. <br> Pas de manuel ouvert. <br> Aide citoyenne inexistante. <br> Interventions autonomes impossibles. <br> Formation interne requise. <br> Outils propriétaires. <br> Transparence nulle. |
-| 4. Communauté / support | 0/4 🔴 | Support limité aux concessionnaires agréés. <br> Aucun réseau citoyen pour correction. <br> Dépendance aux fabricants. <br> Assistance payante. <br> Forums partiels mais non officiels. <br> Expertise externe impossible. <br> Aucune documentation ouverte. <br> Maintenance centralisée. <br> Aucune participation directe. <br> Support collectif inexistant. |
-| 5. Continuité / maintenance | 0/4 🔴 | Dépendance totale au constructeur pour mise à jour et maintenance. <br> Risque d’obsolescence logiciel. <br> Réparations partielles uniquement via concessionnaire. <br> Aucun plan de continuité citoyen. <br> Blocage pour utilisateurs indépendants. <br> Interventions externes interdites. <br> Contrôle centralisé. <br> Maintenance non ouverte. <br> Adaptation impossible. <br> Vérifiabilité nulle. |
-| **CO – Contestabilité (Total 20)** | **0/20 🔴** |                        |
-| 1. Remise en cause par experts | 0/4 🔴 | Impossible de vérifier logiciel par experts citoyens. <br> Audit indépendant impossible. <br> Code source fermé. <br> Décisions opaques. <br> Évaluation externe interdite. <br> Analyse critique limitée. <br> Contrôle sociotechnique nul. <br> Intervention uniquement constructeur. <br> Recours impossible pour citoyens. <br> Absence totale de transparence. |
-| 2. Possibilité d’appel / recours | 0/4 🔴 | Aucune possibilité de contester logiciel ou décisions. <br> Procédures réservées aux constructeurs. <br> Recours techniques impossibles. <br> Pas de recours collectif. <br> Aucun accès aux codes internes. <br> Utilisateur bloqué dans écosystème. <br> Intervention externe impossible. <br> Aucun mécanisme légal direct. <br> Recours indirect long et inefficace. <br> Citoyen exclu. |
-| 3. Transparence des résultats | 0/4 🔴 | Décisions algorithmiques opaques. <br> Résultats d’actions non publiés. <br> Fonctionnement interne caché. <br> Pas de traçabilité pour l’utilisateur. <br> Indicateurs internes invisibles. <br> Performances masquées. <br> Collecte de données non détaillée. <br> Statistiques non accessibles. <br> Analyse indépendante impossible. <br> Informations propriétaires bloquées. |
-| 4. Participation citoyenne | 0/4 🔴 | Citoyens exclus de tout processus décisionnel. <br> Pas de consultation possible. <br> Aucune influence sur logiciel ou sécurité. <br> Aucun mécanisme participatif. <br> Engagement impossible. <br> Usage dicté par constructeur. <br> Contrôle externe interdit. <br> Influence politique nulle. <br> Décisions centralisées. <br> Absence de légitimité citoyenne. |
-| 5. Alternatives / substituts | 0/4 🔴 | Alternatives limitées à véhicules mécaniques classiques. <br> Logiciel propriétaire non remplaçable. <br> Ecosystème fermé. <br> Véhicule autonome fermé. <br> Dépendance forte au constructeur. <br> Substituts logiciels inexistants. <br> Options citoyennes nulles. <br> Aucune alternative pour audit. <br> Contrainte sur l’usage individuel. <br> Blocage total de l’écosystème. |
 
-| **TOTAL (100)** | **1/100 🔴** | Objet verrouillé, non auditable, dépendant des constructeurs → mauvais objet, élitiste et dangereux pour autonomie citoyenne. |
+| Critère | Note | Justification | Pourquoi pas moins ? | Pourquoi pas plus ? |
+|----------|------|---------------|----------------------|---------------------|
+| U1. Pertinence fonctionnelle | 4/4 🟢 | La voiture électrique connectée assure efficacement le transport de personnes sur des distances variées. Elle combine mobilité, assistance numérique et fonctions avancées de conduite. | Sa fonction principale de déplacement est pleinement assurée. | Note maximale atteinte. |
+| U2. Impact réel | 4/4 🟢 | Ces véhicules jouent un rôle majeur dans la mobilité contemporaine et l'économie industrielle. Ils influencent les modes de transport, l'urbanisme et les usages numériques. | Leur impact concret est considérable. | Note maximale atteinte. |
+| U3. Utilisation effective | 3/4 🟢 | L'usage est important dans de nombreux pays mais dépend encore des infrastructures de recharge et des services numériques associés. | L'adoption est réelle et croissante. | L'utilisation optimale reste conditionnée par l'écosystème technique. |
+| U4. Accessibilité | 2/4 🟠 | Les coûts d'acquisition et de maintenance demeurent élevés pour de nombreux citoyens. L'accès aux fonctionnalités avancées dépend souvent de ressources supplémentaires. | Le marché est largement ouvert au public. | Les barrières économiques et techniques restent importantes. |
+| U5. Documentation | 1/4 🔴 | L'utilisateur dispose généralement d'un manuel d'utilisation mais très peu d'informations sur les logiciels embarqués et leur fonctionnement réel. | Une documentation existe pour les usages courants. | Les informations techniques restent largement fermées. |
+| CE1. Documentation technique | 1/4 🔴 | Les composants logiciels essentiels sont rarement documentés de manière ouverte. Les informations détaillées restent réservées aux constructeurs et partenaires. | Une documentation constructeur partielle existe. | Les mécanismes internes demeurent opaques. |
+| CE2. Modularité / ouverture | 0/4 🔴 | Les systèmes embarqués sont généralement verrouillés et peu modifiables par l'utilisateur. Les possibilités d'évolution indépendante sont très limitées. | — | Le contrôle repose entièrement sur le constructeur. |
+| CE3. Auditabilité | 0/4 🔴 | Les logiciels embarqués sont propriétaires et ne peuvent généralement pas être audités par des tiers indépendants. | — | L'absence d'accès au code empêche tout audit complet. |
+| CE4. Encapsulation cachée | 0/4 🔴 | Les décisions algorithmiques et les mécanismes internes restent invisibles pour l'utilisateur. | — | Les logiques internes ne sont pas publiquement accessibles. |
+| CE5. Robustesse / simplicité | 1/4 🔴 | La mécanique est souvent fiable mais la dépendance aux logiciels ajoute une couche de complexité difficilement maîtrisable. | Les performances techniques sont élevées. | La simplicité d'usage et de maintenance reste faible. |
+| TA1. Documentation claire | 0/4 🔴 | Les utilisateurs n'ont accès qu'à une partie limitée du fonctionnement global du véhicule. | — | Les éléments stratégiques demeurent fermés. |
+| TA2. Normes ou standards | 0/4 🔴 | De nombreux protocoles et systèmes utilisés sont propriétaires ou partiellement documentés. | — | L'interopérabilité reste limitée par les choix industriels. |
+| TA3. Lisibilité des décisions | 0/4 🔴 | Les traitements algorithmiques liés aux performances, à la collecte de données ou à la maintenance restent largement opaques. | — | L'utilisateur ne peut pas comprendre précisément certaines décisions du système. |
+| TA4. Communication externe | 0/4 🔴 | Les constructeurs publient principalement des informations commerciales et peu de détails techniques auditables. | — | La communication reste fortement contrôlée. |
+| TA5. Accessibilité collective | 0/4 🔴 | Les utilisateurs n'ont pas accès aux mécanismes critiques du système. | — | La gouvernance de l'objet demeure privée. |
+| R1. Correctibilité | 0/4 🔴 | Les corrections logicielles dépendent exclusivement du constructeur ou du réseau agréé. | — | Les utilisateurs ne peuvent pas intervenir directement. |
+| R2. Adaptabilité | 0/4 🔴 | Les évolutions du système sont déterminées par le fabricant. | — | L'utilisateur ne peut pas adapter librement le véhicule. |
+| R3. Aide à la compréhension | 1/4 🔴 | Certaines ressources d'assistance existent mais concernent surtout l'utilisation courante. | Une aide minimale est disponible. | Les informations stratégiques sont absentes. |
+| R4. Communauté / soutien | 0/4 🔴 | Le soutien dépend essentiellement des concessionnaires et du constructeur. | — | Les communautés indépendantes disposent de peu de leviers d'action. |
+| R5. Continuité / maintenance | 0/4 🔴 | Les mises à jour et réparations logicielles restent dépendantes du fabricant. | — | Une perte de support peut limiter fortement l'utilisation du véhicule. |
+| CO1. Contestation par experts | 0/4 🔴 | Les experts ne disposent pas des moyens nécessaires pour vérifier ou remettre en cause les algorithmes internes. | — | Les composants critiques restent fermés. |
+| CO2. Possibilité de recours | 0/4 🔴 | Les utilisateurs disposent de peu de possibilités d'action face aux choix algorithmiques du constructeur. | — | Les mécanismes de recours techniques sont très limités. |
+| CO3. Transparence des résultats | 0/4 🔴 | Les résultats produits par les logiciels embarqués ne sont pas toujours explicables ou vérifiables. | — | Les données et traitements restent opaques. |
+| CO4. Participation citoyenne | 0/4 🔴 | Les usagers ne participent pas aux décisions concernant les logiciels embarqués. | — | L'ensemble des orientations est centralisé. |
+| CO5. Alternatives / substituts | 0/4 🔴 | Les alternatives existent au niveau du véhicule mais pas du logiciel interne qui reste imposé. | — | Le verrouillage propriétaire demeure fort. |
+| **TOTAL OPEN‑OBJET (100)** | **9/100 🔴** | **Objet très fermé : utile mais peu transparent, difficilement réparable, non auditable et fortement dépendant des constructeurs.** | | |
 
----
+# NOMBRE TOTAL D'OBJETS OUVERTS : 9 /100 🔴
 
-💡 **Recommandation**  
-Limiter la dépendance aux logiciels fermés, imposer une auditabilité publique complète, et encourager des standards ouverts et interopérables pour les véhicules connectés.
+| Niveau | Interprétation |
+|----------|----------|
+| 🟢 **Excellent objet** | 80 – 100 |
+| 🟡 **Bon objet perfectible** | 60 – 79 |
+| 🟠 **Objet fragile** | 40 – 59 |
+| 🔴 **Mauvais objet** | 0 – 39 |
+
+# Diagnostic OPEN‑OBJET
+
+## Forces principales
+
+- Forte utilité fonctionnelle.
+- Mobilité performante.
+- Intégration technologique avancée.
+- Infrastructure en développement.
+- Usage largement diffusé.
+
+## Faiblesses principales
+
+- Logiciels propriétaires.
+- Absence d'auditabilité.
+- Transparence quasi nulle.
+- Réparation dépendante du constructeur.
+- Gouvernance totalement centralisée.
+
+## Risques identifiés
+
+- Dépendance technologique.
+- Collecte opaque de données.
+- Obsolescence logicielle.
+- Verrouillage de l'écosystème.
+- Réduction de l'autonomie des utilisateurs.
+
+## Recommandations d'amélioration
+
+1. Imposer l'auditabilité des logiciels embarqués.
+2. Développer des normes ouvertes.
+3. Renforcer le droit à la réparation.
+4. Garantir l'accès aux données générées.
+5. Favoriser l'interopérabilité entre constructeurs.
+
+# Conclusion OPEN‑OBJET
+
+La voiture électrique connectée apparaît dans cette évaluation comme un **mauvais objet au sens OPEN‑OBJET (9/100)**. Son utilité est indéniable mais elle repose sur une architecture globale fortement fermée, centralisée et difficilement contrôlable par ses utilisateurs.
+
+L'objet illustre une situation où la performance fonctionnelle ne s'accompagne pas d'ouverture structurelle. Les utilisateurs bénéficient d'un service efficace mais ne disposent que d'un contrôle limité sur son fonctionnement, sa maintenance et son évolution.
+
+La principale faiblesse de cet objet réside donc moins dans sa fonction que dans sa gouvernance technique, son manque de transparence et sa dépendance à des systèmes propriétaires.
