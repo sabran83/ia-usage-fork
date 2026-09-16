@@ -73,6 +73,86 @@
 4. Faciliter l'accès à certaines parties du code source.
 5. Améliorer l'implication des utilisateurs dans la gouvernance.
 
+# ÉVALUATION IMPACT‑OBJET
+**Objet évalué : Microsoft Windows**
+
+| Critère | Note | Justification | Pourquoi pas moins ? | Pourquoi pas plus ? |
+|----------|------|---------------|----------------------|---------------------|
+| A1. Favorise l'autonomie individuelle | 3/4 🟢 | Windows permet à des centaines de millions d'utilisateurs d'accéder à l'informatique, de travailler, d'apprendre et de communiquer de manière autonome. Son vaste catalogue d'applications lui permet de répondre à de nombreux besoins personnels et professionnels. | L'utilisateur dispose d'un environnement complet lui permettant d'effectuer une grande variété de tâches. | Certaines contraintes liées à l'écosystème Microsoft limitent l'autonomie complète des utilisateurs. |
+| A2. Développe les compétences | 4/4 🟢 | Windows constitue l'un des principaux outils d'apprentissage numérique dans le monde. Il est utilisé dans l'éducation, les entreprises et les administrations pour acquérir des compétences informatiques. | Son rôle dans la diffusion des compétences numériques est largement démontré. | Note maximale atteinte. |
+| A3. Réduit les dépendances | 2/4 🟠 | Le système facilite l'accès aux outils numériques mais crée également une dépendance importante à un environnement propriétaire et à certains formats spécifiques. | Il permet néanmoins d'utiliser de nombreux logiciels indépendants. | La dépendance à Microsoft et à son écosystème demeure significative. |
+| A4. Facilite le libre choix | 3/4 🟢 | Les utilisateurs peuvent installer une grande variété de logiciels et personnaliser leur environnement de travail selon leurs besoins. | Une réelle liberté de choix existe dans les usages quotidiens. | Certaines intégrations favorisent les services Microsoft par défaut. |
+| A5. Renforce la capacité d'agir | 4/4 🟢 | Windows permet de produire, communiquer, créer, apprendre et collaborer à grande échelle. Son impact sur la capacité d'action numérique est considérable. | Son utilité fonctionnelle est largement reconnue. | Note maximale atteinte. |
+| S1. Risques physiques | 4/4 🟢 | Le système d'exploitation ne présente pratiquement aucun risque physique direct pour l'utilisateur. Les dangers potentiels sont essentiellement indirects. | Les risques physiques intrinsèques sont très faibles. | Note maximale atteinte. |
+| S2. Risques psychologiques | 3/4 🟢 | L'utilisation intensive d'outils numériques peut contribuer à la surcharge cognitive ou à l'hyperconnexion, mais Windows n'en est qu'un vecteur parmi d'autres. | Les effets négatifs demeurent indirects. | Certaines pratiques numériques peuvent toutefois accentuer ces risques. |
+| S3. Prévisibilité des risques | 4/4 🟢 | Les principaux risques liés à la cybersécurité ou aux erreurs de manipulation sont bien identifiés et documentés. | Les utilisateurs disposent d'une information abondante. | Note maximale atteinte. |
+| S4. Protection des utilisateurs | 3/4 🟢 | Windows intègre de nombreuses protections de sécurité natives, notamment contre les logiciels malveillants et les accès non autorisés. | Les mécanismes de protection sont matures et régulièrement améliorés. | Les menaces informatiques demeurent nombreuses malgré ces protections. |
+| S5. Amélioration du bien‑être | 3/4 🟢 | Le système facilite l'accès au travail, à la culture, à l'éducation et aux services publics numériques. | Les bénéfices pour la vie quotidienne sont importants. | Les effets liés à la dépendance numérique limitent une note maximale. |
+| E1. Consommation de ressources | 2/4 🟠 | Les versions récentes de Windows nécessitent des ressources matérielles relativement importantes. Cela peut accélérer le renouvellement des équipements. | Le système reste utilisable sur une large gamme de matériels. | Ses exigences matérielles augmentent régulièrement. |
+| E2. Durabilité | 2/4 🟠 | Microsoft assure généralement plusieurs années de support, mais certaines évolutions conduisent à l'abandon de matériels plus anciens. | Les périodes de maintenance sont relativement longues. | L'obsolescence logicielle reste un sujet récurrent. |
+| E3. Réparabilité écologique | 2/4 🟠 | Windows fonctionne sur de nombreux ordinateurs mais certaines mises à jour ou contraintes matérielles réduisent parfois leur durée de vie utile. | La compatibilité matérielle reste globalement large. | Certains équipements deviennent incompatibles avec les nouvelles versions. |
+| E4. Pollution générée | 2/4 🟠 | L'impact environnemental est principalement indirect, via les infrastructures numériques et le renouvellement des équipements. | Le logiciel ne génère pas directement de pollution physique importante. | Son influence sur le cycle de renouvellement du matériel demeure réelle. |
+| E5. Recyclabilité | 3/4 🟢 | Windows n'empêche pas la réutilisation ou le recyclage des équipements informatiques. | Les utilisateurs peuvent prolonger la vie de nombreux appareils. | Certaines contraintes techniques limitent cette prolongation. |
+| C1. Coopération | 4/4 🟢 | Windows facilite le travail collaboratif grâce à un vaste ensemble d'outils de communication et de production collective. | Son utilisation dans les organisations est massive. | Note maximale atteinte. |
+| C2. Inclusion | 3/4 🟢 | De nombreux outils d'accessibilité sont intégrés pour les personnes ayant des besoins spécifiques. | Les efforts réalisés en matière d'accessibilité sont significatifs. | Le coût des licences peut constituer une barrière pour certains utilisateurs. |
+| C3. Accès équitable | 3/4 🟢 | Le système est largement disponible dans la plupart des pays et préinstallé sur de nombreux ordinateurs. | Sa diffusion facilite l'accès aux outils numériques. | Son caractère propriétaire limite l'accès universel. |
+| C4. Transmission des savoirs | 4/4 🟢 | Une immense quantité de documentation, de formations et de ressources pédagogiques existe autour de Windows. | Les connaissances liées à son utilisation sont abondamment diffusées. | Note maximale atteinte. |
+| C5. Confiance collective | 3/4 🟢 | Sa présence historique et sa stabilité contribuent à une forte confiance des particuliers et des organisations. | Le système bénéficie d'une réputation largement établie. | Les questions de confidentialité limitent une note supérieure. |
+| P1. Concentration du contrôle | 1/4 🔴 | La gouvernance, les mises à jour et les orientations stratégiques sont fortement centralisées par Microsoft. | Une concurrence existe malgré tout sur le marché des systèmes d'exploitation. | Le contrôle reste largement entre les mains d'un seul acteur. |
+| P2. Dépendance à un acteur unique | 1/4 🔴 | Les utilisateurs dépendent fortement des décisions de Microsoft concernant les mises à jour, les licences et le support. | Il existe des alternatives comme Linux ou macOS. | La dépendance structurelle à Microsoft demeure élevée. |
+| P3. Liberté d'usage | 3/4 🟢 | Les usages possibles sont très nombreux et couvrent pratiquement tous les besoins courants. | La liberté fonctionnelle est importante. | Le système reste moins libre qu'une solution open source. |
+| P4. Neutralité | 2/4 🟠 | Certains services Microsoft bénéficient d'une intégration privilégiée au sein du système. | Les utilisateurs peuvent néanmoins installer des solutions concurrentes. | L'écosystème Microsoft conserve un avantage structurel. |
+| P5. Résilience institutionnelle | 3/4 🟢 | L'ancienneté et la stabilité de Windows assurent une continuité importante des activités numériques. | Sa pérennité est élevée à moyen terme. | La dépendance à un acteur unique limite la résilience maximale. |
+| **TOTAL (100)** | **71/100 🟡** | **Impact globalement positif, porté par l'autonomie numérique, la coopération et l'accès aux compétences, mais limité par des dépendances importantes et certains enjeux environnementaux.** | | |
+
+# NOMBRE TOTAL D'IMPACTS POSITIFS : 71 /100 🟡
+
+| Niveau | Interprétation |
+|----------|----------|
+| 🟢 **Impact très positif** | 80 – 100 |
+| 🟡 **Impact globalement positif mais perfectible** | 60 – 79 |
+| 🟠 **Impact mitigé ou fragile** | 40 – 59 |
+| 🔴 **Impact globalement négatif** | 0 – 39 |
+
+# Diagnostic IMPACT‑OBJET
+
+## Forces principales
+
+- Développe massivement les compétences numériques.
+- Renforce l'autonomie et la capacité d'agir.
+- Facilite la coopération et le travail collaboratif.
+- Dispose d'un vaste écosystème éducatif et professionnel.
+- Offre des mécanismes de sécurité relativement matures.
+
+## Faiblesses principales
+
+- Forte dépendance à Microsoft.
+- Concentration importante du pouvoir décisionnel.
+- Exigences matérielles croissantes.
+- Impact indirect sur le renouvellement des équipements.
+- Questions récurrentes liées à la confidentialité.
+
+## Risques identifiés
+
+- Dépendance technologique à un acteur unique.
+- Obsolescence accélérée de certains matériels.
+- Vulnérabilités de cybersécurité à grande échelle.
+- Concentration du marché des systèmes d'exploitation.
+- Difficultés de migration pour certaines organisations.
+
+## Recommandations d'amélioration
+
+1. Renforcer l'interopérabilité avec les solutions concurrentes.
+2. Réduire les effets d'obsolescence logicielle.
+3. Améliorer la transparence sur la collecte et l'utilisation des données.
+4. Favoriser davantage la compatibilité avec les matériels anciens.
+5. Développer les outils de sobriété numérique et énergétique.
+6. Limiter les situations de dépendance à l'écosystème Microsoft.
+
+## Conclusion IMPACT‑OBJET
+
+Microsoft Windows apparaît dans cette évaluation comme un **objet à impact globalement positif (71/100)**. Son rôle dans la diffusion des compétences numériques, l'accès aux services informatiques et la coopération entre individus et organisations est considérable. Toutefois, cette contribution positive est partiellement compensée par une forte concentration du pouvoir, une dépendance importante à un acteur unique et certains impacts indirects sur l'environnement. Son impact demeure favorable, mais plusieurs leviers d'amélioration permettraient d'accroître son bénéfice collectif.
+
 ## Conclusion OPEN‑OBJET
 
 Microsoft Windows apparaît dans cette évaluation comme un **bon objet perfectible (64/100)**. Son utilité, sa robustesse et son adoption mondiale constituent des atouts majeurs. Toutefois, son caractère propriétaire limite significativement son ouverture, sa transparence et son auditabilité. Windows démontre qu'un objet peut être extrêmement utile sans être pleinement ouvert. Une amélioration de la transparence et de la participation des utilisateurs constituerait le principal levier d'amélioration de son score OPEN‑OBJET.
