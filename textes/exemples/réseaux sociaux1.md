@@ -4,7 +4,7 @@
 
 **Date :** 12/08/2025
 
-**É**lu**eur :** Citoyen-44444 (public)
+**Évaluateur :** Citoyen-44444 (public)
 
 ---
 
@@ -30,7 +30,14 @@
 | R – Réparabilité | R3 – Aide à la documentation | 🔴 0/4 | Aucun mécanisme ne permet réellement aux citoyens de comprendre comment réparer ou ajuster le système. | Note minimale atteinte. | L'information disponible reste insuffisante. |
 | R – Réparabilité | R4 – Communauté / soutien | 🔴 0/4 | Les communautés d'utilisateurs ne participent pas à la gouvernance réelle des plateformes. | Note minimale atteinte. | Le contrôle demeure centralisé. |
 | R – Réparabilité | R5 – Continuité / maintenance | 🔴 0/4 | La maintenance vise essentiellement la stabilité commerciale des plateformes. | Note minimale atteinte. | Le maintien du service ne s'accompagne pas d'une amélioration de sa gouvernance. |
-| CO – Contestabilité | CO1 – Remise en cause par experts | 🔴 0/4 | Les critiques académiques existent mais produisent peu d'effets sur le fonctionnement réel des plateformes. | Note minimale atteinte
+| CO – Contestabilité | CO1 – Remise en cause par experts | 🔴 0/4 | Les critiques académiques existent mais produisent peu d'effets sur le fonctionnement réel des plateformes. | Note minimale atteinte. | Les experts disposent d'une influence limitée sur les décisions stratégiques. |
+| CO – Contestabilité | CO2 – Possibilité d'appel / recours | 🔴 0/4 | Les recours sont difficiles, longs et rarement accessibles à la majorité des utilisateurs. | Note minimale atteinte. | Les mécanismes de contestation restent faibles. |
+| CO – Contestabilité | CO3 – Transparence des résultats | 🔴 0/4 | Les impacts réels des algorithmes demeurent insuffisamment mesurables pour les citoyens. | Note minimale atteinte. | Les résultats produits ne sont pas pleinement vérifiables. |
+| CO – Contestabilité | CO4 – Participation citoyenne | 🔴 0/4 | Les utilisateurs participent à la production de contenu mais pas à la gouvernance des plateformes. | Note minimale atteinte. | La participation ne concerne pas les mécanismes décisionnels. |
+| CO – Contestabilité | CO5 – Alternatives / substituts | 🔴 0/4 | Les effets de réseau créent une forte dépendance aux plateformes dominantes. | Note minimale atteinte. | Les alternatives restent limitées ou marginales à l'échelle mondiale. |
+
+---
+
 # TOTAL OPEN‑OBJET : 0 /100 🔴
 
 | Niveau | Interprétation |
@@ -47,31 +54,31 @@
 ## Forces principales
 
 - Connectivité mondiale.
+- Mise en relation rapide des individus.
 - Diffusion instantanée de l'information.
-- Forte capacité de mise en relation.
 
 ## Faiblesses principales
 
-- Opaque.
-- Non auditable.
+- Algorithmes opaques.
 - Forte dépendance au modèle publicitaire.
-- Maximisation de l'attention plutôt que de la connaissance.
+- Faible transparence.
+- Difficulté d'audit externe.
 
 ## Risques identifiés
 
 - Polarisation sociale.
 - Désinformation.
-- Dépendance comportementale.
+- Dépendance attentionnelle.
 - Concentration du pouvoir informationnel.
 
 ## Recommandations d'amélioration
 
 1. Audit public des algorithmes.
-2. Interopérabilité des plateformes.
-3. Transparence des systèmes de recommandation.
-4. Gouvernance incluant usagers et société civile.
-5. Droit à la personnalisation du fil de recommandation.
+2. Interopérabilité obligatoire des plateformes.
+3. Transparence des mécanismes de recommandation.
+4. Participation citoyenne à la gouvernance.
+5. Possibilité de personnaliser totalement les critères de classement.
 
 > **Conclusion OPEN‑OBJET :**
 >
-> Les réseaux sociaux dominants apparaissent dans cette évaluation comme un **mauvais objet (0/100)**. Leur architecture est perçue comme opaque, peu réparable et insuffisamment contestable. Leur transformation nécessiterait une ouverture structurelle des mécanismes de recommandation et de gouvernance.
+> Les réseaux sociaux dominants apparaissent dans cette évaluation comme un **mauvais objet (0/100)**. Leur architecture est jugée opaque, difficilement contestable et insuffisamment réparable. Une ouverture importante de leurs mécanismes de gouvernance serait nécessaire pour améliorer leur score OPEN‑OBJET.
