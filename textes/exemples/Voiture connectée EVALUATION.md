@@ -7,7 +7,7 @@
 
 | Critère | Note | Justification | Pourquoi pas moins ? | Pourquoi pas plus ? |
 |----------|------|---------------|----------------------|---------------------|
-| U1. Pertinence fonctionnelle | 4/4 🟢 | La voiture électrique connectée assure efficacement le transport de personnes sur des distances variées. Elle combine mobilité, assistance numérique et fonctions avancées de conduite. | Sa fonction principale de déplacement est pleinement assurée. | Note maximale atteinte. |
+| U1. Pertinence fonctionnelle | 4/4 🟢 | La voiture électrique connectée assure efficacement le transport de personnes sur des distances variées. Elle combine mobilité, assistance numérique et fonctions avancées de conduite. | Sa fonction principale de déplacement est pleinement assurée. | Note-maximale atteinte. |
 | U2. Impact réel | 4/4 🟢 | Ces véhicules jouent un rôle majeur dans la mobilité contemporaine et l'économie industrielle. Ils influencent les modes de transport, l'urbanisme et les usages numériques. | Leur impact concret est considérable. | Note-maximale atteinte. |
 | U3. Utilisation effective | 3/4 🟢 | L'usage est important dans de nombreux pays mais dépend encore des infrastructures de recharge et des services numériques associés. | L'adoption est réelle et croissante. | L'utilisation optimale reste conditionnée par l'écosystème technique. |
 | U4. Accessibilité | 2/4 🟠 | Les coûts d'acquisition et de maintenance demeurent élevés pour de nombreux citoyens. L'accès aux fonctionnalités avancées dépend souvent de ressources supplémentaires. | Le marché est largement ouvert au public. | Les barrières économiques et techniques restent importantes. |
