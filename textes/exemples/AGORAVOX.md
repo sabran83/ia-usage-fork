@@ -117,7 +117,7 @@ Une meilleure transparence organisationnelle permettrait de rapprocher AgoraVox 
 | P4 Neutralité | 3/4 🟡 | Une pluralité de points de vue coexiste sur la plateforme. Les biais individuels restent toutefois possibles. | L'équilibre est recherché. | Une neutralité parfaite n'existe pas. |
 | P5 Résilience institutionnelle | 3/4 🟡 | La diversité des contributeurs renforce la résilience globale du système. | Le modèle participatif constitue une force. | La dépendance à la plateforme demeure importante. |
 
-# NOMBRE TOTAL D'IMPACTS POSITIFS : 82 /100
+## NOMBRE TOTAL D'IMPACTS POSITIFS : 82 /100
 
 | Niveau | Score |
 |----------|----------|
