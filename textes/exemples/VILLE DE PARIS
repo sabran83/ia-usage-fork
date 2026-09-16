@@ -1,0 +1,223 @@
+# ÉVALUATION OPEN‑OBJET : Ville de Paris
+2
+ 
+3
+**Objet :** Administration municipale de la Ville de Paris
+4
+**Date :** 16/09/2026
+5
+**Évaluateur :** Citoyen (OPEN‑OBJET)
+6
+ 
+7
+---
+8
+ 
+9
+# U – Utilité réelle (19/20) 🟢
+10
+ 
+11
+| Sous-critère | Note | Justification | Pourquoi pas moins ? | Pourquoi pas plus ? |
+12
+|--------------|------|---------------|----------------------|---------------------|
+13
+| U1 – Pertinence fonctionnelle | 4/4 🟢 | La Ville de Paris assure des fonctions essentielles : état civil, écoles, urbanisme, voirie, culture et action sociale. Son existence répond directement aux besoins fondamentaux d'une grande métropole. | Une ville de cette taille ne peut fonctionner sans une administration locale structurée. | Note maximale atteinte. |
+14
+| U2 – Impact réel | 4/4 🟢 | Les décisions municipales influencent directement le logement, les mobilités, l'environnement et les services publics de millions de personnes. | Les effets des décisions sont visibles quotidiennement. | Note maximale atteinte. |
+15
+| U3 – Utilisation effective | 4/4 🟢 | Les habitants utilisent régulièrement les services municipaux : écoles, équipements publics, bibliothèques, espaces publics ou démarches administratives. | L'utilisation est massive et continue. | Note maximale atteinte. |
+16
+| U4 – Accessibilité | 3/4 🟢 | Les services sont accessibles en ligne et physiquement. Certaines démarches restent néanmoins complexes pour certains publics. | Les dispositifs d'accueil existent réellement. | Une simplification administrative supplémentaire serait nécessaire. |
+17
+| U5 – Documentation | 4/4 🟢 | Budgets, délibérations, rapports et données ouvertes sont largement publiés. | La documentation est abondante et facilement consultable. | Note maximale atteinte. |
+18
+ 
+19
+---
+20
+ 
+21
+# CE – Complexité encapsulée (15/20) 🟢
+22
+ 
+23
+| Sous-critère | Note | Justification | Pourquoi pas moins ? | Pourquoi pas plus ? |
+24
+|--------------|------|---------------|----------------------|---------------------|
+25
+| CE1 – Technique de documentation | 3/4 🟢 | Les procédures et démarches sont documentées mais certaines restent complexes pour les citoyens. | Les guides et notices existent. | La compréhension n'est pas toujours immédiate. |
+26
+| CE2 – Modularité / ouverture | 3/4 🟢 | Les directions municipales sont relativement identifiables et spécialisées. | Les responsabilités sont clairement réparties. | La structure globale reste difficile à appréhender dans son ensemble. |
+27
+| CE3 – Auditabilité | 3/4 🟢 | Les comptes, rapports et délibérations permettent un contrôle externe important. | Les données nécessaires à l'analyse sont disponibles. | Leur exploitation reste technique. |
+28
+| CE4 – Politisation / Encapsulation cachée | 2/4 🟡 | Les choix municipaux sont fortement influencés par des arbitrages politiques. | Les décisions sont débattues publiquement. | La neutralité technique complète n'existe pas. |
+29
+| CE5 – Robustesse / simplicité | 4/4 🟢 | Les services continuent à fonctionner malgré les crises et les alternances politiques. | L'institution est très stable. | Note maximale atteinte. |
+30
+ 
+31
+---
+32
+ 
+33
+# TA – Transparence vérifiable (16/20) 🟢
+34
+ 
+35
+| Sous-critère | Note | Justification | Pourquoi pas moins ? | Pourquoi pas plus ? |
+36
+|--------------|------|---------------|----------------------|---------------------|
+37
+| TA1 – Documentation claire | 4/4 🟢 | La Ville publie massivement des documents administratifs et financiers. | Les informations sont publiques. | Note maximale atteinte. |
+38
+| TA2 – Normes ou standards | 3/4 🟢 | Les règles administratives sont publiques mais parfois complexes. | Les normes sont identifiables. | Leur compréhension nécessite souvent des compétences spécifiques. |
+39
+| TA3 – Lisibilité des décisions | 3/4 🟢 | Les décisions sont publiées mais leur lecture détaillée reste technique. | Les décisions sont accessibles publiquement. | Leur appropriation par le citoyen est encore limitée. |
+40
+| TA4 – Communication externe | 3/4 🟢 | La mairie communique largement sur ses actions. | Les citoyens disposent de nombreuses sources d'information. | La communication reste institutionnelle. |
+41
+| TA5 – Accessibilité collective | 3/4 🟢 | Les informations sont facilement accessibles mais leur volume est important. | L'information est largement disponible. | Elle n'est pas toujours facilement exploitable par tous. |
+42
+ 
+43
+---
+44
+ 
+45
+# R – Réparabilité (16/20) 🟢
+46
+ 
+47
+| Sous-critère | Note | Justification | Pourquoi pas moins ? | Pourquoi pas plus ? |
+48
+|--------------|------|---------------|----------------------|---------------------|
+49
+| R1 – Correctibilité | 3/4 🟢 | Les politiques publiques peuvent être révisées ou corrigées. | Des mécanismes de correction existent. | Les corrections sont souvent lentes. |
+50
+| R2 – Adaptabilité | 4/4 🟢 | La Ville a démontré sa capacité à s'adapter aux défis climatiques, sanitaires et numériques. | Les exemples d'adaptation sont nombreux. | Note maximale atteinte. |
+51
+| R3 – Aide à la documentation | 3/4 🟢 | Les rapports et indicateurs permettent d'identifier les dysfonctionnements. | Les informations nécessaires existent. | Une partie reste très technique. |
+52
+| R4 – Communauté / soutien | 3/4 🟢 | Un vaste réseau d'agents, associations et partenaires soutient l'amélioration continue. | Le soutien institutionnel est fort. | La participation citoyenne directe reste limitée. |
+53
+| R5 – Continuité / maintenance | 3/4 🟢 | Les services municipaux assurent une continuité stable. | Le fonctionnement reste globalement assuré. | Certaines infrastructures connaissent encore des retards d'entretien. |
+54
+ 
+55
+---
+56
+ 
+57
+# CO – Contestabilité (17/20) 🟢
+58
+ 
+59
+| Sous-critère | Note | Justification | Pourquoi pas moins ? | Pourquoi pas plus ? |
+60
+|--------------|------|---------------|----------------------|---------------------|
+61
+| CO1 – Remise en cause par experts | 4/4 🟢 | Les politiques municipales sont régulièrement évaluées par experts, chercheurs et journalistes. | La critique externe est permanente. | Note maximale atteinte. |
+62
+| CO2 – Possibilité d'appel / recours | 4/4 🟢 | Des recours administratifs et juridictionnels existent. | Les citoyens disposent de moyens réels de contestation. | Note maximale atteinte. |
+63
+| CO3 – Transparence des résultats | 3/4 🟢 | Les résultats sont visibles à travers les réalisations et indicateurs publics. | Les effets sont observables. | Tous les impacts ne sont pas mesurables précisément. |
+64
+| CO4 – Participation citoyenne | 3/4 🟢 | Budgets participatifs et consultations publiques permettent une implication des habitants. | Des mécanismes participatifs existent réellement. | Le pouvoir décisionnel reste principalement entre les mains des élus. |
+65
+| CO5 – Alternatives / substituts | 3/4 🟢 | Les élections permettent une alternance démocratique. | Les dirigeants peuvent être remplacés. | L'institution municipale elle-même ne possède pas de substitut réel. |
+66
+ 
+67
+---
+68
+ 
+69
+# TOTAL OPEN‑OBJET : 83 /100 🟢
+70
+ 
+71
+| Niveau | Interprétation |
+72
+|----------|----------|
+73
+| 🟢 **Excellent objet** | 80 – 100 |
+74
+| 🟡 **Bon objet perfectible** | 60 – 79 |
+75
+| 🟠 **Objet fragile** | 40 – 59 |
+76
+| 🔴 **Mauvais objet** | 0 – 39 |
+77
+ 
+78
+---
+79
+ 
+80
+# Diagnostic OPEN‑OBJET
+81
+ 
+82
+## Forces principales
+83
+ 
+84
+- Forte utilité sociale.
+85
+- Impact direct sur la vie quotidienne.
+86
+- Robustesse institutionnelle élevée.
+87
+- Bonne contestabilité démocratique.
+88
+- Documentation abondante.
+89
+ 
+90
+## Faiblesses principales
+91
+ 
+92
+- Complexité administrative importante.
+93
+- Difficulté de compréhension globale pour les citoyens.
+94
+- Forte dimension politique dans certains arbitrages.
+95
+ 
+96
+## Risques identifiés
+97
+ 
+98
+- Défiance citoyenne liée à la complexité du système.
+99
+- Fracture numérique.
+100
+- Difficulté croissante à comprendre les arbitrages budgétaires.
+101
+ 
+102
+## Recommandations d'amélioration
+103
+ 
+104
+1. Simplifier les démarches administratives.
+105
+2. Renforcer la pédagogie budgétaire.
+106
+3. Développer davantage les mécanismes de participation citoyenne.
+107
+4. Produire des indicateurs publics plus facilement compréhensibles.
+108
+ 
+109
+> **Conclusion OPEN‑OBJET :**
+110
+>
+111
+> La Ville de Paris apparaît comme un **excellent objet institutionnel (83/100)**. Elle combine une forte utilité collective, une bonne robustesse et une contestabilité démocratique importante. Ses marges de progression concernent principalement la simplification administrative et l'amélioration de la compréhension citoyenne de son fonctionnement.
+112
+``
