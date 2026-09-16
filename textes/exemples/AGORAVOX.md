@@ -1,6 +1,9 @@
-# BLOC 1 : OPEN‑OBJET COMPLET
+## ÉVALUATION "OPEN+OBJET"
+**Objet évalué : AGORAVOX**
 
-## ÉVALUATION OPEN‑OBJET : AGORAVOX
+**Date** : 16/09/2026  
+**Évaluateur** : Citoyen-55212 (public)
+
 
 | Critère | Note | Justification | Pourquoi pas moins ? | Pourquoi pas plus ? |
 |----------|----------|----------|----------|----------|
