@@ -197,7 +197,9 @@ La voiture électrique connectée illustre précisément cette seconde situation
 
 Au regard de cette double analyse, la voiture électrique connectée apparaît comme un **objet utile mais fortement verrouillé**, dont les bénéfices pratiques sont partiellement affaiblis par une dépendance croissante à des infrastructures numériques, des logiciels propriétaires et des mécanismes décisionnels opaques.
 
-Que nous apprend cet objet sur la relation entre progrès technique, autonomie et gouvernance ? : Plus largement, ce cas montre que la transition écologique ne garantit pas automatiquement une transition démocratique ou une amélioration de l'autonomie citoyenne. Un objet peut réduire certaines émissions tout en renforçant simultanément les dépendances techniques, économiques et informationnelles.
+Que nous apprend cet objet sur la relation entre progrès technique, autonomie et gouvernance ? 
+
+Plus largement, ce cas montre que la transition écologique ne garantit pas automatiquement une transition démocratique ou une amélioration de l'autonomie citoyenne. Un objet peut réduire certaines émissions tout en renforçant simultanément les dépendances techniques, économiques et informationnelles.
 
 La voiture électrique connectée constitue ainsi un exemple emblématique d'objet technologiquement avancé mais insuffisamment ouvert. Son principal défi pour les années à venir ne sera probablement pas seulement d'améliorer ses performances environnementales, mais également de renforcer sa transparence, sa réparabilité, son interopérabilité et la capacité des citoyens à participer à sa gouvernance technique.
 
