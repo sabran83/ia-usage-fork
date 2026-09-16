@@ -169,7 +169,7 @@ Dans l'ensemble, les bénéfices sociétaux apparaissent supérieurs aux risques
 ---
 
 
-# Conclusion globale "OPEN‑OBJET" + "IMPACT‑OBJET"
+# Conclusion globale "OPEN+OBJET" + "IMPACT+OBJET"
 
 **OPEN‑OBJET : 78/100**
 
