@@ -16,7 +16,10 @@ Ce tableau présente une classification hiérarchique des objets physiques, arte
 | 3.1 | Logiciel simple | Application utilitaire, site web basique | Fonction spécifique, interaction limitée, infrastructure technique simple |
 | 3.2 | Logiciel complexe / IA | Intelligence artificielle, réseau social, blockchain | Systèmes interconnectés, données et logiciels, évolution rapide, nécessite infrastructure avancée |
 | 3.3 | Protocoles, normes et standards numériques | TCP/IP, HTTP, HTTPS, DNS, SMTP, HTML, CSS, USB, Bluetooth | Spécifications techniques définissant l'interopérabilité entre systèmes, indépendantes d'une implémentation logicielle particulière |
-
+| **4** | Normes et referenciels | - | Objets immatériels |
+| 4.1 | Norme technique | Ensemble de spécifications techniques définissant des règles d'interopérabilité, de compatibilité ou de fonctionnement entre systèmes, matériels ou logiciels. Une norme technique décrit comment un système doit fonctionner ou communiquer afin d'assurer la cohérence entre différentes implémentations. | TCP/IP, HTTP, HTTPS, DNS, SMTP, IMAP, POP3, HTML, CSS, XML, JSON, Unicode, USB, Bluetooth, Wi‑Fi, Ethernet, PDF, JPEG, MPEG |
+| 4.2 | Norme de management | Ensemble de règles définissant l'organisation, les processus, les responsabilités et les méthodes de gestion d'une activité. Ces normes n'imposent pas une solution technique précise mais encadrent le fonctionnement d'une organisation. | ISO 9001 (qualité), ISO 14001 (environnement), ISO 45001 (santé-sécurité), ISO 50001 (énergie), ISO 27001 (management de la sécurité de l'information), ITIL, COBIT |
+| 4.3 | Référentiel d'évaluation | Cadre méthodologique permettant de mesurer, comparer, auditer ou évaluer un objet, un projet, une organisation ou un système selon des critères définis. L'objectif principal est la notation, la certification ou l'aide à la décision. | OPEN‑OBJET, IMPACT‑OBJET, Common Criteria (ISO 15408), RGAA, WCAG, NIST Cybersecurity Framework, EcoIndex, référentiels ESG, référentiels d'audit qualité |
 ---
 
 ## Notes
