@@ -1,6 +1,6 @@
 # Classification des objets et artefacts
 
-Ce tableau présente une classification hiérarchique des objets physiques, artefacts sociaux et artefacts virtuels, organisée par complexité et type.
+Ce tableau présente une classification hiérarchique des objets physiques, artefacts sociaux et artefacts virtuels, organisée par complexité et/ou type.
 
 | **Numéro** | **Catégorie principale / Sous-catégorie** | **Exemples** | **Caractéristiques** |
 |------------|------------------------------------------|-------------|--------------------|
