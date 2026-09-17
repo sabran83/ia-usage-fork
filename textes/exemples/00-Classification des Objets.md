@@ -15,6 +15,7 @@ Ce tableau présente une classification hiérarchique des objets physiques, arte
 | **3** | Artefacts virtuels / numériques | - | Objets immatériels numériques ou logiciels |
 | 3.1 | Logiciel simple | Application utilitaire, site web basique | Fonction spécifique, interaction limitée, infrastructure technique simple |
 | 3.2 | Logiciel complexe / IA | Intelligence artificielle, réseau social, blockchain | Systèmes interconnectés, données et logiciels, évolution rapide, nécessite infrastructure avancée |
+| 3.3 | Protocoles, normes et standards numériques | TCP/IP, HTTP, HTTPS, DNS, SMTP, HTML, CSS, USB, Bluetooth | Spécifications techniques définissant l'interopérabilité entre systèmes, indépendantes d'une implémentation logicielle particulière |
 
 ---
 
